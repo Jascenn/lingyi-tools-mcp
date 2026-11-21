@@ -1,0 +1,5170 @@
+[
+  {
+    "id": 89,
+    "name": "Microsoft Copilot",
+    "description": {
+      "zh": "Microsoft Copilot是集成到Microsoft 365和Windows中的AI助手，提供智能办公和生产力支持。",
+      "en": "AI assistant integrated across Microsoft 365 and Windows, providing intelligent office automation and productivity support"
+    },
+    "category": "business",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-89.png",
+    "tags": {
+      "zh": [
+        "Microsoft AI",
+        "Office 365",
+        "Windows集成",
+        "智能办公",
+        "生产力工具"
+      ],
+      "en": [
+        "Microsoft AI",
+        "Office 365",
+        "Windows Integration",
+        "Smart Office",
+        "Productivity Tools"
+      ]
+    },
+    "url": "https://copilot.microsoft.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 94,
+    "name": "DataRobot",
+    "description": {
+      "zh": "DataRobot 是企业级 AI 平台，把机器学习的建模、部署、监控与治理做成一站式流程：数据团队把表格数据接入后，平台自动尝试多种算法并选出最优模型，还持续监控线上模型的漂移与健康度。",
+      "en": "DataRobot is an enterprise AI platform that covers modeling, deployment, monitoring and governance in one workflow: feed it tabular data and it automatically tries many algorithms and selects the best model, then keeps watching production models for drift and health issues."
+    },
+    "category": "dataAnalysis",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-94.png",
+    "tags": {
+      "zh": [
+        "自动化ML",
+        "企业级",
+        "机器学习",
+        "AI模型",
+        "模型部署"
+      ],
+      "en": [
+        "AI",
+        "AutoML",
+        "Enterprise",
+        "Machine Learning",
+        "Model Deployment"
+      ]
+    },
+    "url": "https://www.datarobot.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 95,
+    "name": "H2O.ai",
+    "description": {
+      "zh": "H2O.ai 是企业级 AI 平台厂商，其开源机器学习框架 H2O 被数据科学团队广泛用于建模；商业产品包括自动机器学习平台 Driverless AI、企业级大模型与文档智能方案，主打在企业内网与私有环境中安全地训练、部署与治理模型。",
+      "en": "H2O.ai is an enterprise AI platform company. Its open-source H2O framework is widely used by data science teams for modeling, while its commercial products include the Driverless AI autoML platform and enterprise LLM and document AI offerings, built to train, deploy and govern models safely inside private environments."
+    },
+    "category": "dataAnalysis",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-95.png",
+    "tags": {
+      "zh": [
+        "机器学习平台",
+        "自动化ML",
+        "开源",
+        "企业级",
+        "数据科学"
+      ],
+      "en": [
+        "AI",
+        "Open Source",
+        "Machine Learning",
+        "AutoML",
+        "Data Science"
+      ]
+    },
+    "url": "https://h2o.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 96,
+    "name": "Coursera Coach",
+    "description": {
+      "zh": "Coursera Coach 是在线课程平台 Coursera 的 AI 学习助手，嵌在课程学习流程里：它能结合你正在学的那门课的内容答疑、总结要点、生成练习题自测，并按你的目标给出学习路径建议。",
+      "en": "Coursera Coach is the AI learning assistant built into the Coursera platform. It answers questions using the content of the course you are taking, summarizes key points, generates practice questions, and suggests next steps on your learning path based on your goals."
+    },
+    "category": "education",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-96.png",
+    "tags": {
+      "zh": [
+        "AI学习",
+        "个性化推荐",
+        "学习路径",
+        "课程指导",
+        "教育助手"
+      ],
+      "en": [
+        "AI Learning",
+        "Personalized Recommendations",
+        "Learning Path",
+        "Course Guidance",
+        "Education Assistant"
+      ]
+    },
+    "url": "https://www.coursera.org/coach",
+    "pricing": "freemium"
+  },
+  {
+    "id": 97,
+    "name": "Khan Academy Khanmigo",
+    "description": {
+      "zh": "Khanmigo 是非营利教育平台 Khan Academy 的 AI 导师，基于它自有的课程体系设计：它不直接给答案，而是用提问引导学生自己想出解法；同时给教师提供备课、出题与学情分析工具，给家长提供陪学视角。",
+      "en": "Khanmigo is the AI tutor from the nonprofit Khan Academy, designed around its own curriculum. It does not hand over answers; it asks questions that guide students to the solution themselves, while giving teachers lesson-planning, quiz-building and class-insight tools and parents a window into their child's learning."
+    },
+    "category": "education",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-97.png",
+    "tags": {
+      "zh": [
+        "AI导师",
+        "Khan Academy",
+        "个性化学习",
+        "学科辅导",
+        "学习支持"
+      ],
+      "en": [
+        "AI Tutor",
+        "Khan Academy",
+        "Personalized Learning",
+        "Subject Tutoring",
+        "Learning Support"
+      ]
+    },
+    "url": "https://www.khanacademy.org/khan-labs",
+    "pricing": "freemium"
+  },
+  {
+    "id": 98,
+    "name": "Duolingo Max",
+    "description": {
+      "zh": "Duolingo Max 是语言学习应用 Duolingo 的最高档订阅，在常规课程之上加入由大模型驱动的互动练习：针对你的答案给出个性化讲解、与 AI 角色做情景对话练习，并提供视频通话式的口语陪练。",
+      "en": "Duolingo Max is the top subscription tier of the language-learning app Duolingo. On top of the regular courses it adds LLM-powered interactive practice: personalized explanations of your answers, roleplay conversations with AI characters, and video-call style speaking practice."
+    },
+    "category": "education",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-98.png",
+    "tags": {
+      "zh": [
+        "语言学习",
+        "AI增强",
+        "个性化课程",
+        "智能解释",
+        "学习辅助"
+      ],
+      "en": [
+        "AI",
+        "Language Learning",
+        "Personalized",
+        "Interactive",
+        "Education"
+      ]
+    },
+    "url": "https://www.duolingo.com/max",
+    "pricing": "freemium"
+  },
+  {
+    "id": 99,
+    "name": "Socratic by Google",
+    "description": {
+      "zh": "Socratic 是 Google 出的免费作业辅导应用：拍照或语音提出问题，它会把问题拆解成知识点，给出分步解释，并聚合来自优质教育来源的图文与视频讲解，覆盖数学、科学、文学等中小学与大学基础科目。",
+      "en": "Socratic is Google's free homework-help app. Ask by photo or voice and it breaks the question down into concepts, gives step-by-step explanations, and gathers text and video lessons from quality education sources, covering math, science, literature and other school and introductory college subjects."
+    },
+    "category": "education",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-99.png",
+    "tags": {
+      "zh": [
+        "作业助手",
+        "Google AI",
+        "视觉识别",
+        "分步解释",
+        "学习辅导"
+      ],
+      "en": [
+        "AI",
+        "Homework Help",
+        "Visual Recognition",
+        "Education",
+        "Google"
+      ]
+    },
+    "url": "https://socratic.org",
+    "pricing": "free"
+  },
+  {
+    "id": 90,
+    "name": "Adobe Sensei",
+    "description": {
+      "zh": "Adobe Sensei是Adobe的AI和机器学习平台，为Creative Cloud应用提供智能功能和自动化工具。",
+      "en": "Adobe's AI and machine learning platform that provides intelligent features and automation tools for Creative Cloud applications"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-90.png",
+    "tags": {
+      "zh": [
+        "Adobe AI",
+        "机器学习",
+        "Creative Cloud",
+        "智能功能",
+        "自动化"
+      ],
+      "en": [
+        "AI",
+        "Adobe",
+        "Creative AI",
+        "Machine Learning",
+        "Professional"
+      ]
+    },
+    "url": "https://www.adobe.com/sensei.html",
+    "pricing": "freemium"
+  },
+  {
+    "id": 100,
+    "name": "Photomath",
+    "description": {
+      "zh": "Photomath 是拍照解数学题的应用：对准题目拍照或手写输入，就能得到分步的解题过程，覆盖小学算术到微积分的常见题型。它的重点不是只给答案，而是把每一步的原理讲清楚。",
+      "en": "Photomath is a math-solving app: point the camera at a problem or write it by hand and it returns a step-by-step solution, covering everything from elementary arithmetic to calculus. Its point is not just the answer, but explaining the reasoning behind each step."
+    },
+    "category": "education",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-100.png",
+    "tags": {
+      "zh": [
+        "数学解题",
+        "AI识别",
+        "拍照解题",
+        "分步解答",
+        "学习工具"
+      ],
+      "en": [
+        "AI",
+        "Math",
+        "Problem Solving",
+        "Education",
+        "Visual Recognition"
+      ]
+    },
+    "url": "https://photomath.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 12,
+    "name": "Perplexity AI",
+    "description": {
+      "zh": "Perplexity AI是新一代AI搜索引擎，结合搜索和问答功能，提供准确、实时的信息检索和研究助手服务。",
+      "en": "AI-powered search engine and research assistant"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-12.png",
+    "tags": {
+      "zh": [
+        "AI搜索",
+        "智能问答",
+        "信息检索",
+        "研究助手",
+        "实时搜索"
+      ],
+      "en": [
+        "AI",
+        "Search",
+        "Research",
+        "Information",
+        "Citations"
+      ]
+    },
+    "url": "https://www.perplexity.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 15,
+    "name": "Wordtune",
+    "description": {
+      "zh": "Wordtune是AI写作伙伴，专注于文本改写和优化，帮助用户提升写作质量和表达清晰度。",
+      "en": "AI writing companion for rewriting and improving text"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-15.png",
+    "tags": {
+      "zh": [
+        "文本改写",
+        "写作优化",
+        "语言润色",
+        "表达优化",
+        "写作助手"
+      ],
+      "en": [
+        "AI",
+        "Writing",
+        "Rewriting",
+        "Paraphrasing",
+        "Language"
+      ]
+    },
+    "url": "https://www.wordtune.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 29,
+    "name": "Speechify",
+    "description": {
+      "zh": "Speechify是AI文本转语音阅读助手，帮助用户将任何文本转换为自然语音，提升阅读效率和学习体验。",
+      "en": "AI-powered text-to-speech reading assistant"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-29.png",
+    "tags": {
+      "zh": [
+        "文本转语音",
+        "阅读助手",
+        "AI朗读",
+        "学习工具",
+        "无障碍阅读"
+      ],
+      "en": [
+        "AI",
+        "Text-to-Speech",
+        "Reading",
+        "Accessibility",
+        "Learning"
+      ]
+    },
+    "url": "https://speechify.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 35,
+    "name": "Writesonic",
+    "description": {
+      "zh": "Writesonic是AI写作助手，专注于营销文案创作，提供广告文案、博客文章和SEO内容生成。",
+      "en": "AI writing platform for creating marketing copy and content"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-35.png",
+    "tags": {
+      "zh": [
+        "营销文案",
+        "AI写作",
+        "SEO内容",
+        "广告创意",
+        "博客生成"
+      ],
+      "en": [
+        "AI",
+        "Copywriting",
+        "Marketing",
+        "Content",
+        "SEO"
+      ]
+    },
+    "url": "https://writesonic.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 42,
+    "name": "Brandmark",
+    "description": {
+      "zh": "Brandmark是AI品牌设计工具，创建Logo、名片、社交媒体素材等完整品牌资产。",
+      "en": "AI logo design tool with brand identity creation"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-42.png",
+    "tags": {
+      "zh": [
+        "品牌设计",
+        "Logo创作",
+        "品牌资产",
+        "商业设计",
+        "视觉形象"
+      ],
+      "en": [
+        "AI",
+        "Logo Design",
+        "Brand Identity",
+        "Graphics",
+        "Business"
+      ]
+    },
+    "url": "https://brandmark.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 9,
+    "name": "Runway",
+    "description": {
+      "zh": "Runway 是面向创作者的 AI 视频生成与编辑平台，支持文生视频、图生视频和多种视觉处理能力。",
+      "en": "AI-powered creative suite for video editing and generation"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-9.png",
+    "tags": {
+      "zh": [
+        "AI视频",
+        "视频编辑",
+        "视频生成",
+        "创意工具",
+        "背景移除"
+      ],
+      "en": [
+        "AI",
+        "Video",
+        "Creative",
+        "ML",
+        "Generation"
+      ]
+    },
+    "url": "https://runwayml.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 23,
+    "name": "Tome",
+    "description": {
+      "zh": "Tome是AI驱动的演示文稿创建工具，通过智能内容生成快速制作专业的演示和故事叙述。",
+      "en": "AI-powered storytelling format for presentations"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-23.png",
+    "tags": {
+      "zh": [
+        "演示文稿",
+        "智能生成",
+        "故事叙述",
+        "内容创作",
+        "商业演示"
+      ],
+      "en": [
+        "AI",
+        "Presentations",
+        "Storytelling",
+        "Design",
+        "Content"
+      ]
+    },
+    "url": "https://tome.app",
+    "pricing": "freemium"
+  },
+  {
+    "id": 66,
+    "name": "Dall-E 2",
+    "description": {
+      "zh": "DALL-E 2是OpenAI的先进AI图像生成系统，能够根据文本描述创建高质量、逼真的图像。",
+      "en": "OpenAI's advanced AI image generation system"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-66.png",
+    "tags": {
+      "zh": [
+        "OpenAI",
+        "高质量图像",
+        "文本转图像",
+        "逼真效果",
+        "先进AI"
+      ],
+      "en": [
+        "AI",
+        "OpenAI",
+        "Image Generation",
+        "Advanced",
+        "High Quality"
+      ]
+    },
+    "url": "https://openai.com/dall-e-2",
+    "pricing": "freemium"
+  },
+  {
+    "id": 83,
+    "name": "Replit AI",
+    "description": {
+      "zh": "Replit AI是集成AI功能的在线IDE，支持协作编程、代码生成和多种编程语言的云端开发。",
+      "en": "AI-powered online IDE with collaborative coding features"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-83.png",
+    "tags": {
+      "zh": [
+        "在线IDE",
+        "AI编程",
+        "协作开发",
+        "云端开发",
+        "多语言支持"
+      ],
+      "en": [
+        "AI",
+        "Online IDE",
+        "Collaboration",
+        "Cloud Development",
+        "Multi-language"
+      ]
+    },
+    "url": "https://replit.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 92,
+    "name": "Salesforce Einstein",
+    "description": {
+      "zh": "Salesforce Einstein是集成到Salesforce CRM中的AI平台，提供销售预测、客户分析和业务洞察。",
+      "en": "AI platform integrated into Salesforce CRM for intelligent business insights"
+    },
+    "category": "business",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-92.png",
+    "tags": {
+      "zh": [
+        "CRM AI",
+        "Salesforce",
+        "销售预测",
+        "客户分析",
+        "业务洞察"
+      ],
+      "en": [
+        "AI",
+        "CRM",
+        "Business Intelligence",
+        "Enterprise",
+        "Analytics"
+      ]
+    },
+    "url": "https://www.salesforce.com/products/einstein/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 52,
+    "name": "Hour One",
+    "description": {
+      "zh": "Hour One是AI视频制作平台，使用虚拟主播技术为企业创建本地化的视频内容。",
+      "en": "AI-powered video creation with virtual presenters"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-52.png",
+    "tags": {
+      "zh": [
+        "虚拟主播",
+        "企业视频",
+        "本地化",
+        "多语言",
+        "规模化制作"
+      ],
+      "en": [
+        "AI",
+        "Video Creation",
+        "Virtual Presenters",
+        "Enterprise",
+        "Localization"
+      ]
+    },
+    "url": "https://hourone.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 59,
+    "name": "DreamStudio",
+    "description": {
+      "zh": "DreamStudio是Stability AI的Stable Diffusion界面，为用户提供专业的AI图像生成和编辑工具。",
+      "en": "Stability AI's interface for Stable Diffusion image generation"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-59.png",
+    "tags": {
+      "zh": [
+        "Stable Diffusion",
+        "AI绘画",
+        "图像生成",
+        "专业工具",
+        "高级控制"
+      ],
+      "en": [
+        "AI",
+        "Stable Diffusion",
+        "Image Generation",
+        "Advanced Controls",
+        "API"
+      ]
+    },
+    "url": "https://beta.dreamstudio.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 91,
+    "name": "Shopify Magic",
+    "description": {
+      "zh": "Shopify Magic是Shopify的AI功能套件，为电商商家提供智能产品描述、营销文案和店铺优化。",
+      "en": "AI-powered e-commerce tools integrated into Shopify platform"
+    },
+    "category": "business",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-91.png",
+    "tags": {
+      "zh": [
+        "电商AI",
+        "Shopify",
+        "产品描述",
+        "营销文案",
+        "店铺优化"
+      ],
+      "en": [
+        "AI",
+        "E-commerce",
+        "Shopify",
+        "Business",
+        "Automation"
+      ]
+    },
+    "url": "https://www.shopify.com/magic",
+    "pricing": "freemium"
+  },
+  {
+    "id": 74,
+    "name": "Consensus",
+    "description": {
+      "zh": "Consensus是AI学术搜索引擎，帮助研究人员快速找到科学论文中的关键见解和结论。",
+      "en": "AI-powered search engine for scientific research and evidence-based answers"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-74.png",
+    "tags": {
+      "zh": [
+        "学术搜索",
+        "科学论文",
+        "研究工具",
+        "AI分析",
+        "学术见解"
+      ],
+      "en": [
+        "AI",
+        "Scientific Research",
+        "Evidence-based",
+        "Academic",
+        "Citations"
+      ]
+    },
+    "url": "https://consensus.app",
+    "pricing": "freemium"
+  },
+  {
+    "id": 30,
+    "name": "Eleven Labs",
+    "description": {
+      "zh": "Eleven Labs是先进的AI语音合成平台，提供高质量的语音克隆和文本转语音服务。",
+      "en": "Advanced AI voice generation and speech synthesis platform"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-30.png",
+    "tags": {
+      "zh": [
+        "语音合成",
+        "声音克隆",
+        "文本转语音",
+        "多语言",
+        "音频生成"
+      ],
+      "en": [
+        "AI",
+        "Voice Cloning",
+        "Speech Synthesis",
+        "Audio",
+        "Dubbing"
+      ]
+    },
+    "url": "https://elevenlabs.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 46,
+    "name": "Soundraw",
+    "description": {
+      "zh": "Soundraw是免版税AI音乐生成器，为视频、播客和商业项目创作定制背景音乐。",
+      "en": "AI music generator for royalty-free background music"
+    },
+    "category": "musicCreation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-46.png",
+    "tags": {
+      "zh": [
+        "音乐生成",
+        "免版税",
+        "背景音乐",
+        "定制音乐",
+        "内容创作"
+      ],
+      "en": [
+        "AI",
+        "Music Generation",
+        "Royalty-free",
+        "Background Music",
+        "Content Creation"
+      ]
+    },
+    "url": "https://soundraw.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 28,
+    "name": "Murf AI",
+    "description": {
+      "zh": "Murf AI是先进的AI语音合成平台，提供自然逼真的人工智能配音和语音生成服务，支持多语言和多种音色选择。",
+      "en": "AI voice generator with realistic text-to-speech synthesis"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-28.png",
+    "tags": {
+      "zh": [
+        "AI配音",
+        "语音合成",
+        "多语言",
+        "自然音色",
+        "音频制作"
+      ],
+      "en": [
+        "AI",
+        "Voice Synthesis",
+        "Text-to-Speech",
+        "Audio",
+        "Narration"
+      ]
+    },
+    "url": "https://murf.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 37,
+    "name": "Pictory",
+    "description": {
+      "zh": "Pictory是AI视频创作平台，将文本内容转换为吸引人的短视频，适合社交媒体营销。",
+      "en": "AI video creation platform from text and articles"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-37.png",
+    "tags": {
+      "zh": [
+        "文本转视频",
+        "短视频制作",
+        "社交媒体",
+        "营销视频",
+        "自动剪辑"
+      ],
+      "en": [
+        "AI",
+        "Video Creation",
+        "Text-to-Video",
+        "Marketing",
+        "Social Media"
+      ]
+    },
+    "url": "https://pictory.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 20,
+    "name": "Descript",
+    "description": {
+      "zh": "Descript是革命性的AI音视频编辑平台，提供基于文本的视频编辑、自动转录、语音克隆和协作功能。",
+      "en": "AI-powered audio and video editing with transcript-based editing"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-20.png",
+    "tags": {
+      "zh": [
+        "音视频编辑",
+        "基于文本",
+        "自动转录",
+        "语音克隆",
+        "协作编辑"
+      ],
+      "en": [
+        "AI",
+        "Audio",
+        "Video",
+        "Transcription",
+        "Editing"
+      ]
+    },
+    "url": "https://www.descript.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 56,
+    "name": "Kaiber AI",
+    "description": {
+      "zh": "Kaiber AI是创意AI视频生成平台，将音乐、图像和文本转换为独特的视觉艺术和动态视频内容。",
+      "en": "AI video generation platform focused on music and art"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-56.png",
+    "tags": {
+      "zh": [
+        "AI视频",
+        "音乐可视化",
+        "创意视频",
+        "艺术生成",
+        "动态内容"
+      ],
+      "en": [
+        "AI",
+        "Video Generation",
+        "Music Videos",
+        "Art",
+        "Animation"
+      ]
+    },
+    "url": "https://kaiber.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 6,
+    "name": "Jasper AI",
+    "description": {
+      "zh": "Jasper AI是企业级AI内容创作平台，专为营销团队设计，提供高质量文案、博客文章和营销内容生成。",
+      "en": "AI content platform for enterprise marketing teams"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-6.png",
+    "tags": {
+      "zh": [
+        "内容创作",
+        "营销文案",
+        "企业级AI",
+        "博客写作",
+        "品牌内容"
+      ],
+      "en": [
+        "AI",
+        "Marketing",
+        "Content",
+        "Copywriting",
+        "Enterprise"
+      ]
+    },
+    "url": "https://www.jasper.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 60,
+    "name": "Playground AI",
+    "description": {
+      "zh": "Playground AI是用户友好的AI图像生成平台，支持多种模型和简化的创作流程。",
+      "en": "User-friendly AI image generation with multiple models"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-60.png",
+    "tags": {
+      "zh": [
+        "AI绘画",
+        "用户友好",
+        "多模型",
+        "简化流程",
+        "图像创作"
+      ],
+      "en": [
+        "AI",
+        "Image Generation",
+        "Multiple Models",
+        "User-friendly",
+        "Creative"
+      ]
+    },
+    "url": "https://playgroundai.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 64,
+    "name": "Craiyon",
+    "description": {
+      "zh": "Craiyon是免费的AI图像生成器，前身为DALL-E mini，提供简单易用的文本到图像生成服务。",
+      "en": "Free AI image generator with simple text-to-image creation"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-64.png",
+    "tags": {
+      "zh": [
+        "免费AI",
+        "图像生成",
+        "文本转图像",
+        "DALL-E mini",
+        "简单易用"
+      ],
+      "en": [
+        "AI",
+        "Free",
+        "Image Generation",
+        "Simple",
+        "Accessible"
+      ]
+    },
+    "url": "https://www.craiyon.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 2,
+    "name": "Midjourney",
+    "description": {
+      "zh": "Midjourney是领先的AI图像生成工具，通过文本描述创造高质量、艺术性的图像作品。",
+      "en": "AI art generator creating stunning images from text descriptions"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-2.png",
+    "tags": {
+      "zh": [
+        "AI绘画",
+        "图像生成",
+        "艺术创作",
+        "文本到图像",
+        "创意设计"
+      ],
+      "en": [
+        "AI",
+        "Art",
+        "Image Generation",
+        "Creative",
+        "Design"
+      ]
+    },
+    "url": "https://www.midjourney.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 3,
+    "name": "GitHub Copilot",
+    "description": {
+      "zh": "GitHub Copilot是AI编程助手，由OpenAI Codex驱动，实时为开发者提供代码建议和自动完成。",
+      "en": "AI pair programmer that helps you write code faster and with less work"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-3.png",
+    "tags": {
+      "zh": [
+        "编程助手",
+        "代码生成",
+        "GitHub",
+        "OpenAI",
+        "开发工具"
+      ],
+      "en": [
+        "AI",
+        "Programming",
+        "Code",
+        "Development",
+        "GitHub"
+      ]
+    },
+    "url": "https://github.com/features/copilot",
+    "pricing": "freemium"
+  },
+  {
+    "id": 4,
+    "name": "Stable Diffusion",
+    "description": {
+      "zh": "Stable Diffusion是开源的文本到图像生成模型，为创作者提供强大且可定制的AI图像生成能力。",
+      "en": "Open-source deep learning text-to-image model"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-4.png",
+    "tags": {
+      "zh": [
+        "开源AI",
+        "图像生成",
+        "文本到图像",
+        "可定制",
+        "创意工具"
+      ],
+      "en": [
+        "AI",
+        "Open Source",
+        "Image Generation",
+        "Machine Learning",
+        "Text-to-Image"
+      ]
+    },
+    "url": "https://stability.ai/stable-diffusion",
+    "pricing": "free"
+  },
+  {
+    "id": 5,
+    "name": "Notion AI",
+    "description": {
+      "zh": "Notion AI集成在Notion工作空间中，提供AI写作、总结、翻译和内容生成功能，提升工作效率。",
+      "en": "AI-powered writing assistant integrated into Notion workspace"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-5.png",
+    "tags": {
+      "zh": [
+        "生产力",
+        "写作助手",
+        "工作空间",
+        "内容生成",
+        "效率工具"
+      ],
+      "en": [
+        "AI",
+        "Writing",
+        "Productivity",
+        "Workspace",
+        "Collaboration"
+      ]
+    },
+    "url": "https://www.notion.so/product/ai",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "ko",
+      "ja",
+      "fr",
+      "de",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Canva AI",
+    "description": {
+      "zh": "Canva AI集成智能设计功能，让用户轻松创建专业视觉内容，包括海报、演示文稿和社交媒体图片。",
+      "en": "AI-powered design platform for creating visual content"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-7.png",
+    "tags": {
+      "zh": [
+        "AI设计",
+        "视觉内容",
+        "图形设计",
+        "模板设计",
+        "社交媒体"
+      ],
+      "en": [
+        "AI",
+        "Design",
+        "Graphics",
+        "Templates",
+        "Visual Content"
+      ]
+    },
+    "url": "https://www.canva.com/ai-image-generator/",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "zh",
+      "zh-TW",
+      "ja",
+      "ko",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "ar",
+      "id",
+      "vi",
+      "th"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Copy.ai",
+    "description": {
+      "zh": "Copy.ai是AI文案生成工具，帮助营销人员和企业快速创建吸引人的广告文案、邮件内容和销售材料。",
+      "en": "AI copywriter for marketing and sales content"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-8.png",
+    "tags": {
+      "zh": [
+        "AI文案",
+        "营销内容",
+        "广告创意",
+        "邮件营销",
+        "销售文案"
+      ],
+      "en": [
+        "AI",
+        "Copywriting",
+        "Marketing",
+        "Sales",
+        "Content"
+      ]
+    },
+    "url": "https://www.copy.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 10,
+    "name": "Grammarly",
+    "description": {
+      "zh": "Grammarly是AI驱动的写作助手，提供语法检查、拼写纠错、写作风格优化和语调调整功能。",
+      "en": "AI-powered writing assistant for grammar and style"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-10.png",
+    "tags": {
+      "zh": [
+        "写作助手",
+        "语法检查",
+        "拼写纠错",
+        "写作优化",
+        "英语写作"
+      ],
+      "en": [
+        "AI",
+        "Writing",
+        "Grammar",
+        "Proofreading",
+        "Language"
+      ]
+    },
+    "url": "https://www.grammarly.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "description": {
+      "zh": "ChatGPT是OpenAI开发的先进对话式AI助手，能够进行自然语言对话、回答问题、协助写作、代码编程等多种任务。",
+      "en": "OpenAI's large language model for conversational AI and text generation"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-1.png",
+    "tags": {
+      "zh": [
+        "AI助手",
+        "对话",
+        "文本生成",
+        "OpenAI",
+        "自然语言处理"
+      ],
+      "en": [
+        "AI",
+        "Chat",
+        "Text Generation",
+        "OpenAI",
+        "NLP"
+      ]
+    },
+    "url": "https://chat.openai.com",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "zh",
+      "ja",
+      "ko",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "ru",
+      "it",
+      "ar",
+      "hi",
+      "id",
+      "vi",
+      "th"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Luma AI",
+    "description": {
+      "zh": "Luma AI专注于3D内容创作和神经辐射场技术，让用户从2D图像生成高质量3D模型和场景。",
+      "en": "AI platform for 3D content creation and neural radiance fields"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-13.png",
+    "tags": {
+      "zh": [
+        "3D建模",
+        "神经渲染",
+        "3D生成",
+        "计算机视觉",
+        "3D内容"
+      ],
+      "en": [
+        "AI",
+        "3D",
+        "NeRF",
+        "Computer Vision",
+        "Content Creation"
+      ]
+    },
+    "url": "https://lumalabs.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 14,
+    "name": "Synthesia",
+    "description": {
+      "zh": "Synthesia是AI视频生成平台，使用AI虚拟主播和语音合成技术，让用户轻松创建专业视频内容。",
+      "en": "AI video generation platform with AI avatars and voiceovers"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-14.png",
+    "tags": {
+      "zh": [
+        "AI视频",
+        "AI主播",
+        "语音合成",
+        "虚拟主持",
+        "视频制作"
+      ],
+      "en": [
+        "AI",
+        "Video",
+        "Avatars",
+        "Text-to-Video",
+        "Multilingual"
+      ]
+    },
+    "url": "https://www.synthesia.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 16,
+    "name": "DeepL",
+    "description": {
+      "zh": "DeepL是先进的AI翻译服务，以其卓越的翻译质量和自然语言理解能力享誉全球。",
+      "en": "Advanced AI translation service with superior accuracy"
+    },
+    "category": "translation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-16.png",
+    "tags": {
+      "zh": [
+        "AI翻译",
+        "语言翻译",
+        "多语言",
+        "翻译质量",
+        "自然语言"
+      ],
+      "en": [
+        "AI",
+        "Translation",
+        "Language",
+        "Accuracy",
+        "Professional"
+      ]
+    },
+    "url": "https://www.deepl.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 17,
+    "name": "Replicate",
+    "description": {
+      "zh": "Replicate 是云端 AI 模型运行平台，把热门开源模型封装成统一的 API：开发者不用自己买显卡、配环境，按模型实际占用的硬件时长付费就能调用图像、视频、语音与大语言模型，也能部署与微调自己的模型。",
+      "en": "Replicate is a cloud platform for running AI models behind a single API. Instead of buying GPUs and setting up environments, developers pay for the hardware time a model actually uses to call image, video, audio and language models, and can also deploy and fine-tune their own."
+    },
+    "category": "devPlatform",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-17.png",
+    "tags": {
+      "zh": [
+        "机器学习",
+        "AI模型",
+        "云端API",
+        "开源AI",
+        "模型部署"
+      ],
+      "en": [
+        "AI",
+        "Machine Learning",
+        "API",
+        "Cloud",
+        "Models"
+      ]
+    },
+    "url": "https://replicate.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 18,
+    "name": "Hugging Face",
+    "description": {
+      "zh": "Hugging Face 是全球最大的开源 AI 协作平台，汇集了大量开源模型、数据集与可运行的演示应用（Spaces）。开发者可以直接下载或在线调用文本、图像、语音等各类模型，也能把自己的模型托管上去与社区共享；其 Transformers 等开源库已成为行业事实标准之一。",
+      "en": "Hugging Face is the world's largest open AI collaboration platform, hosting a vast collection of open models, datasets and runnable demo apps (Spaces). Developers can download or call models for text, image and audio tasks, publish their own for the community, and build on libraries such as Transformers, which have become an industry standard."
+    },
+    "category": "devPlatform",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-18.png",
+    "tags": {
+      "zh": [
+        "开源AI",
+        "机器学习",
+        "AI模型",
+        "数据科学",
+        "AI社区"
+      ],
+      "en": [
+        "AI",
+        "Open Source",
+        "Models",
+        "NLP",
+        "Community"
+      ]
+    },
+    "url": "https://huggingface.co",
+    "pricing": "freemium"
+  },
+  {
+    "id": 19,
+    "name": "Figma AI",
+    "description": {
+      "zh": "Figma AI为设计团队提供智能设计辅助功能，包括自动布局、设计建议和协作优化工具。",
+      "en": "AI-powered design features integrated into Figma"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-19.png",
+    "tags": {
+      "zh": [
+        "UI设计",
+        "Figma",
+        "协作设计",
+        "智能布局",
+        "设计工具"
+      ],
+      "en": [
+        "AI",
+        "Design",
+        "UI/UX",
+        "Collaboration",
+        "Prototyping"
+      ]
+    },
+    "url": "https://www.figma.com",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "ja",
+      "ko",
+      "fr",
+      "de",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Framer AI",
+    "description": {
+      "zh": "Framer AI是智能网站构建平台，通过AI技术快速生成响应式网站和交互原型。",
+      "en": "AI-powered web design and development platform"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-21.png",
+    "tags": {
+      "zh": [
+        "网站建设",
+        "原型设计",
+        "响应式",
+        "交互设计",
+        "No-Code"
+      ],
+      "en": [
+        "AI",
+        "Web Design",
+        "No-Code",
+        "Responsive",
+        "Interactive"
+      ]
+    },
+    "url": "https://www.framer.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 22,
+    "name": "Otter.ai",
+    "description": {
+      "zh": "Otter.ai是专业的会议记录AI助手，实时转录语音内容，自动生成会议纪要和要点总结。",
+      "en": "AI meeting assistant for transcription and note-taking"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-22.png",
+    "tags": {
+      "zh": [
+        "会议记录",
+        "语音转文字",
+        "实时转录",
+        "会议纪要",
+        "语音识别"
+      ],
+      "en": [
+        "AI",
+        "Transcription",
+        "Meetings",
+        "Notes",
+        "Voice"
+      ]
+    },
+    "url": "https://otter.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 11,
+    "name": "Claude",
+    "description": {
+      "zh": "Claude是Anthropic开发的AI助手，擅长对话、分析、写作和代码协助，注重安全和有用性。",
+      "en": "Anthropic's AI assistant focused on being helpful, harmless, and honest"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-11.png",
+    "tags": {
+      "zh": [
+        "AI助手",
+        "对话",
+        "分析",
+        "写作",
+        "安全AI"
+      ],
+      "en": [
+        "AI",
+        "Assistant",
+        "Safety",
+        "Anthropic",
+        "Conversation"
+      ]
+    },
+    "url": "https://claude.ai",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "fr",
+      "de",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "pt",
+      "es"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mem",
+    "description": {
+      "zh": "Mem是AI增强的知识管理系统，智能组织和连接您的笔记、想法和信息。",
+      "en": "AI-powered note-taking and knowledge management system"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-26.png",
+    "tags": {
+      "zh": [
+        "知识管理",
+        "智能笔记",
+        "信息组织",
+        "思维连接",
+        "个人助手"
+      ],
+      "en": [
+        "AI",
+        "Notes",
+        "Knowledge Management",
+        "Search",
+        "Organization"
+      ]
+    },
+    "url": "https://mem.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 27,
+    "name": "Krisp",
+    "description": {
+      "zh": "Krisp是AI降噪软件，实时消除通话和录音中的背景噪音，提升音频质量。",
+      "en": "AI-powered noise cancellation for calls and recordings"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-27.png",
+    "tags": {
+      "zh": [
+        "降噪",
+        "音频优化",
+        "通话清晰",
+        "背景消除",
+        "语音增强"
+      ],
+      "en": [
+        "AI",
+        "Noise Cancellation",
+        "Audio",
+        "Calls",
+        "Productivity"
+      ]
+    },
+    "url": "https://krisp.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 31,
+    "name": "Gamma",
+    "description": {
+      "zh": "Gamma是AI文档和演示创建平台，通过智能编排快速生成专业文档、演示和网页。",
+      "en": "AI-powered presentation and document creation platform"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-31.png",
+    "tags": {
+      "zh": [
+        "文档生成",
+        "演示制作",
+        "智能编排",
+        "内容创作",
+        "快速发布"
+      ],
+      "en": [
+        "AI",
+        "Presentations",
+        "Documents",
+        "Design",
+        "Collaboration"
+      ]
+    },
+    "url": "https://gamma.app",
+    "pricing": "freemium"
+  },
+  {
+    "id": 32,
+    "name": "Zapier AI",
+    "description": {
+      "zh": "Zapier AI是智能自动化平台，连接不同应用和服务，创建无代码的工作流自动化。",
+      "en": "AI-powered automation platform for connecting apps and workflows"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-32.png",
+    "tags": {
+      "zh": [
+        "工作流自动化",
+        "应用集成",
+        "无代码",
+        "效率提升",
+        "业务流程"
+      ],
+      "en": [
+        "AI",
+        "Automation",
+        "Workflows",
+        "Integration",
+        "Productivity"
+      ]
+    },
+    "url": "https://zapier.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 33,
+    "name": "Scribe AI",
+    "description": {
+      "zh": "Scribe AI是智能流程文档工具，自动记录操作步骤，生成详细的工作指南和培训材料。",
+      "en": "AI-powered documentation and process recording tool"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-33.png",
+    "tags": {
+      "zh": [
+        "流程文档",
+        "操作指南",
+        "自动记录",
+        "培训材料",
+        "知识传承"
+      ],
+      "en": [
+        "AI",
+        "Documentation",
+        "Process",
+        "Training",
+        "How-to"
+      ]
+    },
+    "url": "https://scribehow.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 34,
+    "name": "Fireflies.ai",
+    "description": {
+      "zh": "Fireflies.ai是会议AI助手，自动记录、转录和分析会议内容，提供智能摘要和行动项。",
+      "en": "AI meeting assistant for recording, transcribing and analyzing calls"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-34.png",
+    "tags": {
+      "zh": [
+        "会议助手",
+        "自动转录",
+        "会议分析",
+        "智能摘要",
+        "CRM集成"
+      ],
+      "en": [
+        "AI",
+        "Meetings",
+        "Transcription",
+        "CRM",
+        "Analytics"
+      ]
+    },
+    "url": "https://fireflies.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 24,
+    "name": "Beautiful.AI",
+    "description": {
+      "zh": "Beautiful.AI是智能演示文稿设计平台，提供AI驱动的设计建议和自动美化功能。",
+      "en": "AI-powered presentation software with smart design assistance"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-24.png",
+    "tags": {
+      "zh": [
+        "演示设计",
+        "自动美化",
+        "智能模板",
+        "商业演示",
+        "设计优化"
+      ],
+      "en": [
+        "AI",
+        "Presentations",
+        "Design",
+        "Templates",
+        "Smart"
+      ]
+    },
+    "url": "https://www.beautiful.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 25,
+    "name": "Loom AI",
+    "description": {
+      "zh": "Loom AI是增强型屏幕录制和视频消息平台，集成AI功能提升录制效率和视频编辑体验。",
+      "en": "AI-enhanced screen recording and video messaging platform"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-25.png",
+    "tags": {
+      "zh": [
+        "屏幕录制",
+        "视频消息",
+        "AI增强",
+        "协作工具",
+        "效率提升"
+      ],
+      "en": [
+        "AI",
+        "Screen Recording",
+        "Video Messaging",
+        "Collaboration",
+        "Productivity"
+      ]
+    },
+    "url": "https://www.loom.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 39,
+    "name": "Designs.ai",
+    "description": {
+      "zh": "Designs.ai是AI创意设计套件，包含Logo设计、视频制作、语音合成等多种创意工具。",
+      "en": "AI-powered creative suite for logos, videos, and graphics"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-39.png",
+    "tags": {
+      "zh": [
+        "Logo设计",
+        "视频制作",
+        "创意套件",
+        "品牌设计",
+        "多功能"
+      ],
+      "en": [
+        "AI",
+        "Logo Design",
+        "Video",
+        "Graphics",
+        "Creative Suite"
+      ]
+    },
+    "url": "https://designs.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 40,
+    "name": "Looka",
+    "description": {
+      "zh": "Looka是AI Logo设计平台，快速生成专业品牌标识和完整的品牌视觉识别系统。",
+      "en": "AI-powered logo design and brand identity platform"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-40.png",
+    "tags": {
+      "zh": [
+        "Logo设计",
+        "品牌标识",
+        "视觉识别",
+        "品牌套件",
+        "小企业"
+      ],
+      "en": [
+        "AI",
+        "Logo Design",
+        "Brand Identity",
+        "Marketing",
+        "Small Business"
+      ]
+    },
+    "url": "https://looka.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 41,
+    "name": "Uizard",
+    "description": {
+      "zh": "Uizard是AI界面设计工具，将手绘草图转换为可交互的数字原型和UI设计。",
+      "en": "AI-powered UI/UX design tool for rapid prototyping"
+    },
+    "category": "design",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-41.png",
+    "tags": {
+      "zh": [
+        "UI设计",
+        "原型制作",
+        "草图转换",
+        "界面设计",
+        "快速原型"
+      ],
+      "en": [
+        "AI",
+        "UI Design",
+        "UX",
+        "Prototyping",
+        "Wireframes"
+      ]
+    },
+    "url": "https://uizard.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 43,
+    "name": "Cleanvoice AI",
+    "description": {
+      "zh": "Cleanvoice AI是专业音频编辑工具，自动清理播客和录音中的填充词、噪音和长时间停顿。",
+      "en": "AI-powered audio editing for podcast and voice content cleanup"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-43.png",
+    "tags": {
+      "zh": [
+        "音频编辑",
+        "播客处理",
+        "噪音清理",
+        "语音优化",
+        "自动剪辑"
+      ],
+      "en": [
+        "AI",
+        "Audio Editing",
+        "Podcast",
+        "Voice Cleanup",
+        "Automated"
+      ]
+    },
+    "url": "https://cleanvoice.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 44,
+    "name": "Podcastle",
+    "description": {
+      "zh": "Podcastle是一站式播客制作平台，集成录音、编辑、AI语音生成和发布功能。",
+      "en": "AI-powered podcast creation and editing platform"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-44.png",
+    "tags": {
+      "zh": [
+        "播客制作",
+        "音频录制",
+        "语音生成",
+        "播客编辑",
+        "内容发布"
+      ],
+      "en": [
+        "AI",
+        "Podcast",
+        "Audio Editing",
+        "Recording",
+        "Transcription"
+      ]
+    },
+    "url": "https://podcastle.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 45,
+    "name": "AIVA",
+    "description": {
+      "zh": "AIVA是AI音乐作曲家，为电影、广告、游戏等创作原创背景音乐和配乐。",
+      "en": "AI composer for creating original music and soundtracks"
+    },
+    "category": "musicCreation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-45.png",
+    "tags": {
+      "zh": [
+        "AI作曲",
+        "背景音乐",
+        "配乐制作",
+        "原创音乐",
+        "商业授权"
+      ],
+      "en": [
+        "AI",
+        "Music Composition",
+        "Soundtrack",
+        "Original Music",
+        "Creative"
+      ]
+    },
+    "url": "https://www.aiva.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 36,
+    "name": "Rytr",
+    "description": {
+      "zh": "Rytr是多功能AI写作工具，支持40多种内容类型和20多种语调，适合各类文案创作需求。",
+      "en": "AI writing assistant for creating content in multiple formats"
+    },
+    "category": "contentWriting",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-36.png",
+    "tags": {
+      "zh": [
+        "AI写作",
+        "多种文体",
+        "语调调节",
+        "内容创作",
+        "文案生成"
+      ],
+      "en": [
+        "AI",
+        "Writing",
+        "Content",
+        "Templates",
+        "Affordable"
+      ]
+    },
+    "url": "https://rytr.me",
+    "pricing": "freemium"
+  },
+  {
+    "id": 38,
+    "name": "InVideo AI",
+    "description": {
+      "zh": "InVideo AI是智能视频编辑平台，提供丰富模板和AI驱动的视频创作工具。",
+      "en": "AI-powered video creation and editing platform"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-38.png",
+    "tags": {
+      "zh": [
+        "视频编辑",
+        "模板库",
+        "营销视频",
+        "社交媒体",
+        "智能剪辑"
+      ],
+      "en": [
+        "AI",
+        "Video Editing",
+        "Templates",
+        "Marketing",
+        "Social Media"
+      ]
+    },
+    "url": "https://invideo.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 50,
+    "name": "Colossyan",
+    "description": {
+      "zh": "Colossyan是企业级AI视频创作平台，使用AI演员制作培训视频和企业宣传内容。",
+      "en": "AI video creation platform with AI actors and presenters"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-50.png",
+    "tags": {
+      "zh": [
+        "AI演员",
+        "企业视频",
+        "培训内容",
+        "多语言",
+        "学习发展"
+      ],
+      "en": [
+        "AI",
+        "Video Creation",
+        "AI Actors",
+        "Training",
+        "L&D"
+      ]
+    },
+    "url": "https://www.colossyan.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 53,
+    "name": "Stable Audio",
+    "description": {
+      "zh": "Stable Audio是开源AI音频生成平台，基于扩散模型生成高质量音乐和音效。",
+      "en": "AI-powered music and sound generation platform"
+    },
+    "category": "musicCreation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-53.png",
+    "tags": {
+      "zh": [
+        "音频生成",
+        "开源AI",
+        "音乐制作",
+        "音效生成",
+        "扩散模型"
+      ],
+      "en": [
+        "AI",
+        "Audio Generation",
+        "Music",
+        "Sound Effects",
+        "Open Source"
+      ]
+    },
+    "url": "https://www.stableaudio.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 54,
+    "name": "Runway Gen-2",
+    "description": {
+      "zh": "Runway Gen-2是专业的AI视频编辑工具，提供内容生成、智能编辑等功能。",
+      "en": "Advanced AI video generation and editing with motion control"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-54.png",
+    "tags": {
+      "zh": [
+        "Runway Gen-2",
+        "AI",
+        "Video Generation",
+        "Motion",
+        "Advanced"
+      ],
+      "en": [
+        "AI",
+        "Video Generation",
+        "Motion",
+        "Advanced",
+        "Creative"
+      ]
+    },
+    "url": "https://runwayml.com/ai-magic-tools/gen-2",
+    "pricing": "freemium"
+  },
+  {
+    "id": 55,
+    "name": "Pika Labs",
+    "description": {
+      "zh": "Pika Labs是AI视频生成平台，支持文本和图像输入，创建高质量的动态视频内容。",
+      "en": "AI video generation platform with text and image inputs"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-55.png",
+    "tags": {
+      "zh": [
+        "AI视频",
+        "文本转视频",
+        "图像转视频",
+        "动态内容",
+        "创意制作"
+      ],
+      "en": [
+        "AI",
+        "Video Generation",
+        "Text-to-Video",
+        "Image-to-Video",
+        "Creative"
+      ]
+    },
+    "url": "https://www.pika.art",
+    "pricing": "freemium"
+  },
+  {
+    "id": 57,
+    "name": "Leonardo AI",
+    "description": {
+      "zh": "Leonardo AI是先进的AI图像生成工具，提供精细控制和多种艺术风格的图像创作功能。",
+      "en": "Advanced AI image generation with fine-tuned control"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-57.png",
+    "tags": {
+      "zh": [
+        "AI绘画",
+        "图像生成",
+        "精细控制",
+        "艺术风格",
+        "创意设计"
+      ],
+      "en": [
+        "AI",
+        "Image Generation",
+        "Fine-tuning",
+        "Models",
+        "Creative"
+      ]
+    },
+    "url": "https://leonardo.ai",
+    "pricing": "freemium",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Adobe Firefly",
+    "description": {
+      "zh": "Adobe Firefly是Adobe的AI创意生成套件，集成到Creative Cloud中提供智能设计和内容创作功能。",
+      "en": "Adobe's AI-powered creative generation suite"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-58.png",
+    "tags": {
+      "zh": [
+        "Adobe AI",
+        "Creative Cloud",
+        "智能设计",
+        "内容创作",
+        "创意套件"
+      ],
+      "en": [
+        "AI",
+        "Adobe",
+        "Creative Suite",
+        "Image Generation",
+        "Professional"
+      ]
+    },
+    "url": "https://www.adobe.com/products/firefly.html",
+    "pricing": "freemium"
+  },
+  {
+    "id": 48,
+    "name": "Beatoven.ai",
+    "description": {
+      "zh": "Beatoven.ai是基于情感的AI音乐生成器，根据视频情节和氛围创作匹配的背景音乐。",
+      "en": "AI music composer for video and podcast content"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-48.png",
+    "tags": {
+      "zh": [
+        "情感音乐",
+        "视频配乐",
+        "氛围音乐",
+        "智能匹配",
+        "情绪识别"
+      ],
+      "en": [
+        "AI",
+        "Music Generation",
+        "Soundtrack",
+        "Mood-based",
+        "Royalty-free"
+      ]
+    },
+    "url": "https://www.beatoven.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 51,
+    "name": "HeyGen",
+    "description": {
+      "zh": "HeyGen是AI视频生成平台，提供多语言AI主播，快速制作商业和教育视频内容。",
+      "en": "AI video generation platform with customizable avatars"
+    },
+    "category": "videoAudio",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-51.png",
+    "tags": {
+      "zh": [
+        "AI主播",
+        "多语言",
+        "商业视频",
+        "教育内容",
+        "视频制作"
+      ],
+      "en": [
+        "AI",
+        "Video Generation",
+        "Avatars",
+        "Multilingual",
+        "Business"
+      ]
+    },
+    "url": "https://www.heygen.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 63,
+    "name": "Artbreeder",
+    "description": {
+      "zh": "Artbreeder是协作式AI图像创作平台，通过混合和进化技术创造独特的艺术作品。",
+      "en": "Collaborative AI art platform for image breeding and generation"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-63.png",
+    "tags": {
+      "zh": [
+        "AI艺术",
+        "协作创作",
+        "图像混合",
+        "进化算法",
+        "独特艺术"
+      ],
+      "en": [
+        "AI",
+        "Art Breeding",
+        "Collaborative",
+        "Image Mixing",
+        "Creative"
+      ]
+    },
+    "url": "https://www.artbreeder.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 65,
+    "name": "Starryai",
+    "description": {
+      "zh": "Starryai是移动端AI艺术生成应用，让用户在手机上轻松创建AI艺术作品和NFT。",
+      "en": "AI art generator app with NFT creation capabilities"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-65.png",
+    "tags": {
+      "zh": [
+        "移动应用",
+        "AI艺术",
+        "NFT创作",
+        "手机端",
+        "艺术生成"
+      ],
+      "en": [
+        "AI",
+        "Art Generation",
+        "NFT",
+        "Mobile App",
+        "Creative"
+      ]
+    },
+    "url": "https://starryai.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 67,
+    "name": "BlueWillow",
+    "description": {
+      "zh": "BlueWillow是免费的AI图像生成工具，为用户提供多样化的艺术风格和创作选项。",
+      "en": "Free AI image generator accessible through Discord"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-67.png",
+    "tags": {
+      "zh": [
+        "免费AI",
+        "图像生成",
+        "多样风格",
+        "艺术创作",
+        "创作选项"
+      ],
+      "en": [
+        "AI",
+        "Free",
+        "Discord",
+        "Image Generation",
+        "Community"
+      ]
+    },
+    "url": "https://www.bluewillow.ai",
+    "pricing": "free"
+  },
+  {
+    "id": 68,
+    "name": "Wombo Dream",
+    "description": {
+      "zh": "Wombo Dream是移动端AI艺术生成应用，以其独特的艺术风格和简单操作而受欢迎。",
+      "en": "Mobile-first AI art generator with artistic styles"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-68.png",
+    "tags": {
+      "zh": [
+        "移动应用",
+        "AI艺术",
+        "独特风格",
+        "简单操作",
+        "艺术生成"
+      ],
+      "en": [
+        "AI",
+        "Mobile",
+        "Art Styles",
+        "Easy",
+        "Quick"
+      ]
+    },
+    "url": "https://dream.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 69,
+    "name": "Character.AI",
+    "description": {
+      "zh": "Character.AI让用户创建和对话AI角色，提供个性化AI聊天体验和角色扮演功能。",
+      "en": "AI chatbot platform for creating and interacting with AI characters"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-69.png",
+    "tags": {
+      "zh": [
+        "AI角色",
+        "角色扮演",
+        "AI聊天",
+        "虚拟角色",
+        "对话AI"
+      ],
+      "en": [
+        "AI",
+        "Chatbots",
+        "Characters",
+        "Roleplay",
+        "Interactive"
+      ]
+    },
+    "url": "https://character.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 70,
+    "name": "Poe by Quora",
+    "description": {
+      "zh": "Poe是Quora推出的AI聊天平台，集成多个AI模型，让用户与不同的AI助手进行对话。",
+      "en": "Platform for accessing multiple AI chatbots in one interface"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-70.png",
+    "tags": {
+      "zh": [
+        "AI聊天",
+        "Quora",
+        "多AI模型",
+        "对话平台",
+        "AI助手"
+      ],
+      "en": [
+        "AI",
+        "Multiple Bots",
+        "Unified Interface",
+        "Comparison",
+        "Accessible"
+      ]
+    },
+    "url": "https://poe.com",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "zh",
+      "zh-TW",
+      "ja",
+      "ko",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Lexica",
+    "description": {
+      "zh": "Lexica是AI艺术搜索引擎和图像生成平台，提供海量AI艺术作品库和提示词参考。",
+      "en": "AI art search engine and Stable Diffusion image generator"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-61.png",
+    "tags": {
+      "zh": [
+        "AI艺术",
+        "搜索引擎",
+        "提示词",
+        "作品库",
+        "艺术参考"
+      ],
+      "en": [
+        "AI",
+        "Art Search",
+        "Stable Diffusion",
+        "Gallery",
+        "Discovery"
+      ]
+    },
+    "url": "https://lexica.art",
+    "pricing": "freemium"
+  },
+  {
+    "id": 62,
+    "name": "NightCafe",
+    "description": {
+      "zh": "NightCafe是AI艺术生成平台，提供多种艺术风格和社区分享功能的创意工具。",
+      "en": "AI art generator with multiple algorithms and community features"
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-62.png",
+    "tags": {
+      "zh": [
+        "AI艺术",
+        "多种风格",
+        "社区平台",
+        "创意工具",
+        "艺术生成"
+      ],
+      "en": [
+        "AI",
+        "Art Generation",
+        "Community",
+        "Multiple Algorithms",
+        "Creative"
+      ]
+    },
+    "url": "https://creator.nightcafe.studio",
+    "pricing": "freemium"
+  },
+  {
+    "id": 72,
+    "name": "Phind",
+    "description": {
+      "zh": "Phind是面向开发者的AI搜索引擎，专注于编程问题解答和技术文档搜索。",
+      "en": "AI search engine optimized for developers and technical questions"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-72.png",
+    "tags": {
+      "zh": [
+        "开发者工具",
+        "AI搜索",
+        "编程问答",
+        "技术文档",
+        "代码搜索"
+      ],
+      "en": [
+        "AI",
+        "Developer Search",
+        "Technical",
+        "Code Help",
+        "Programming"
+      ]
+    },
+    "url": "https://www.phind.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 71,
+    "name": "You.com",
+    "description": {
+      "zh": "You.com是AI增强的搜索引擎，结合传统搜索和AI问答功能，提供个性化的搜索体验。",
+      "en": "AI-powered search engine with integrated chatbot capabilities"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-71.png",
+    "tags": {
+      "zh": [
+        "AI搜索",
+        "搜索引擎",
+        "AI问答",
+        "个性化",
+        "增强搜索"
+      ],
+      "en": [
+        "AI",
+        "Search Engine",
+        "Privacy",
+        "Integrated Chat",
+        "Web Search"
+      ]
+    },
+    "url": "https://you.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 73,
+    "name": "Metaphor",
+    "description": {
+      "zh": "Metaphor是AI驱动的语义搜索引擎，能够理解搜索意图并提供更相关的搜索结果。",
+      "en": "AI-powered search engine that understands natural language queries"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-73.png",
+    "tags": {
+      "zh": [
+        "语义搜索",
+        "AI搜索",
+        "搜索意图",
+        "相关结果",
+        "智能搜索"
+      ],
+      "en": [
+        "AI",
+        "Natural Language Search",
+        "Semantic",
+        "Advanced",
+        "API"
+      ]
+    },
+    "url": "https://metaphor.systems",
+    "pricing": "freemium"
+  },
+  {
+    "id": 76,
+    "name": "Explainpaper",
+    "description": {
+      "zh": "Explainpaper是AI学术论文解读工具，帮助用户理解复杂的学术论文内容和专业术语。",
+      "en": "AI tool for explaining complex research papers in simple terms"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-76.png",
+    "tags": {
+      "zh": [
+        "论文解读",
+        "学术理解",
+        "专业术语",
+        "研究辅助",
+        "AI解释"
+      ],
+      "en": [
+        "AI",
+        "Paper Explanation",
+        "Simplification",
+        "Learning",
+        "Academic"
+      ]
+    },
+    "url": "https://www.explainpaper.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 77,
+    "name": "SciSpace",
+    "description": {
+      "zh": "SciSpace是AI驱动的学术研究平台，提供论文发现、阅读辅助和研究协作功能。",
+      "en": "AI-powered research platform for reading and understanding scientific literature"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-77.png",
+    "tags": {
+      "zh": [
+        "学术研究",
+        "论文发现",
+        "阅读辅助",
+        "研究协作",
+        "学术平台"
+      ],
+      "en": [
+        "AI",
+        "Scientific Literature",
+        "Research Platform",
+        "Paper Reading",
+        "Academic"
+      ]
+    },
+    "url": "https://typeset.io",
+    "pricing": "freemium"
+  },
+  {
+    "id": 78,
+    "name": "Suno AI",
+    "description": {
+      "zh": "Suno AI是创新的AI音乐生成平台，能根据文本提示创作完整的歌曲，包括人声和伴奏。",
+      "en": "AI music generation platform for creating songs with lyrics and vocals"
+    },
+    "category": "musicCreation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-78.png",
+    "tags": {
+      "zh": [
+        "AI音乐",
+        "歌曲创作",
+        "人声合成",
+        "文本转音乐",
+        "创意音乐"
+      ],
+      "en": [
+        "AI",
+        "Music Generation",
+        "Lyrics",
+        "Vocals",
+        "Song Creation"
+      ]
+    },
+    "url": "https://www.suno.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 79,
+    "name": "Udio AI",
+    "description": {
+      "zh": "Udio AI是先进的AI音乐创作工具，专注于生成高质量的原创音乐作品和创意音频。",
+      "en": "AI music creation platform for generating custom songs and compositions"
+    },
+    "category": "musicCreation",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-79.png",
+    "tags": {
+      "zh": [
+        "音乐创作",
+        "原创音乐",
+        "创意音频",
+        "AI作曲",
+        "音乐生成"
+      ],
+      "en": [
+        "AI",
+        "Music Generation",
+        "Songs",
+        "Composition",
+        "Custom Music"
+      ]
+    },
+    "url": "https://www.udio.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 80,
+    "name": "Cursor AI",
+    "description": {
+      "zh": "Cursor AI是新一代AI代码编辑器，提供智能代码补全、AI聊天助手和代码生成功能，大幅提升开发效率。",
+      "en": "AI-powered code editor with intelligent autocomplete and chat"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-80.png",
+    "tags": {
+      "zh": [
+        "AI编程",
+        "IDE",
+        "代码补全",
+        "智能编辑",
+        "开发工具"
+      ],
+      "en": [
+        "AI",
+        "Code Editor",
+        "Autocomplete",
+        "IDE",
+        "Development"
+      ]
+    },
+    "url": "https://cursor.sh",
+    "pricing": "freemium"
+  },
+  {
+    "id": 81,
+    "name": "Codeium",
+    "description": {
+      "zh": "Codeium是免费的AI编程助手，提供实时代码补全、聊天功能和40多种编程语言支持。",
+      "en": "Free AI-powered code completion and chat assistant for developers"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-81.png",
+    "tags": {
+      "zh": [
+        "免费AI",
+        "代码补全",
+        "多语言",
+        "编程助手",
+        "开发者工具"
+      ],
+      "en": [
+        "AI",
+        "Free",
+        "Code Completion",
+        "Multi-language",
+        "Developer Tools"
+      ]
+    },
+    "url": "https://codeium.com",
+    "pricing": "free"
+  },
+  {
+    "id": 82,
+    "name": "Tabnine",
+    "description": {
+      "zh": "Tabnine是智能代码补全工具，通过学习用户代码库提供个性化的AI编程建议和自动完成。",
+      "en": "AI code completion tool that learns from your codebase"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-82.png",
+    "tags": {
+      "zh": [
+        "智能补全",
+        "个性化AI",
+        "代码学习",
+        "编程助手",
+        "自动完成"
+      ],
+      "en": [
+        "AI",
+        "Code Completion",
+        "Personalized",
+        "Learning",
+        "Autocomplete"
+      ]
+    },
+    "url": "https://www.tabnine.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 75,
+    "name": "Elicit",
+    "description": {
+      "zh": "Elicit是AI研究助手，帮助研究人员自动化文献综述、数据提取和研究问题分析。",
+      "en": "AI research assistant for analyzing papers and extracting insights"
+    },
+    "category": "searchResearch",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-75.png",
+    "tags": {
+      "zh": [
+        "研究助手",
+        "文献综述",
+        "数据提取",
+        "研究分析",
+        "学术工具"
+      ],
+      "en": [
+        "AI",
+        "Research Assistant",
+        "Paper Analysis",
+        "Academic",
+        "Literature Review"
+      ]
+    },
+    "url": "https://elicit.org",
+    "pricing": "freemium"
+  },
+  {
+    "id": 87,
+    "name": "Anthropic Claude 3",
+    "description": {
+      "zh": "Claude 3是Anthropic最新的大语言模型，具备强大的推理能力、多模态理解和安全可靠的对话功能。",
+      "en": "Latest version of Claude with enhanced reasoning and multimodal capabilities"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-87.png",
+    "tags": {
+      "zh": [
+        "大语言模型",
+        "Anthropic",
+        "多模态",
+        "安全AI",
+        "推理能力"
+      ],
+      "en": [
+        "AI",
+        "Large Language Model",
+        "Reasoning",
+        "Multimodal",
+        "Safety"
+      ]
+    },
+    "url": "https://claude.ai",
+    "pricing": "freemium"
+  },
+  {
+    "id": 88,
+    "name": "Gemini",
+    "description": {
+      "zh": "Gemini 是 Google 的多模态 AI 助手，可用于对话、内容写作、图像理解与研究。",
+      "en": "Google's advanced AI model for multimodal understanding and generation"
+    },
+    "category": "chatbot",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-88.png",
+    "tags": {
+      "zh": [
+        "Google AI",
+        "大语言模型",
+        "多模态",
+        "内容生成",
+        "先进AI"
+      ],
+      "en": [
+        "AI",
+        "Google",
+        "Multimodal",
+        "Large Language Model",
+        "Integration"
+      ]
+    },
+    "url": "https://gemini.google.com",
+    "pricing": "freemium"
+  },
+  {
+    "id": 84,
+    "name": "Sourcegraph Cody",
+    "description": {
+      "zh": "Sourcegraph Cody是智能AI代码助手，理解整个代码库上下文，提供精准的代码补全、解释和重构建议。",
+      "en": "AI coding assistant that understands your entire codebase"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-84.png",
+    "tags": {
+      "zh": [
+        "AI代码助手",
+        "代码理解",
+        "上下文感知",
+        "代码补全",
+        "开发者工具"
+      ],
+      "en": [
+        "AI",
+        "Code Understanding",
+        "Large Codebase",
+        "Enterprise",
+        "Search"
+      ]
+    },
+    "url": "https://about.sourcegraph.com/cody",
+    "pricing": "freemium"
+  },
+  {
+    "id": 85,
+    "name": "Warp AI",
+    "description": {
+      "zh": "Warp AI是现代化的AI增强终端工具，提供智能命令补全和开发效率提升功能。",
+      "en": "AI-powered terminal with intelligent command suggestions and explanations"
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-85.png",
+    "tags": {
+      "zh": [
+        "AI终端",
+        "命令补全",
+        "开发工具",
+        "效率提升",
+        "现代化终端"
+      ],
+      "en": [
+        "AI",
+        "Terminal",
+        "Command Line",
+        "Productivity",
+        "Developer Tools"
+      ]
+    },
+    "url": "https://www.warp.dev",
+    "pricing": "freemium"
+  },
+  {
+    "id": 86,
+    "name": "Perplexity Pages",
+    "description": {
+      "zh": "Perplexity Pages是AI驱动的知识页面创建工具，结合搜索引擎和AI生成功能，帮助用户创建结构化的信息页面。",
+      "en": "AI-powered content creation for comprehensive topic exploration"
+    },
+    "category": "productivity",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-86.png",
+    "tags": {
+      "zh": [
+        "知识管理",
+        "AI搜索",
+        "页面生成",
+        "信息整理",
+        "内容创作"
+      ],
+      "en": [
+        "AI",
+        "Content Creation",
+        "Research",
+        "Information",
+        "Pages"
+      ]
+    },
+    "url": "https://www.perplexity.ai/pages",
+    "pricing": "freemium"
+  },
+  {
+    "id": 93,
+    "name": "Tableau Einstein",
+    "description": {
+      "zh": "Tableau Einstein 是 Salesforce 为 Tableau 数据分析平台提供的 AI 能力集合，在可视化分析流程中加入自动洞察、自然语言解释与预测功能，帮助业务用户不用写代码，就能从数据里得到可读的结论与下一步建议。",
+      "en": "Tableau Einstein is the set of AI capabilities Salesforce provides for the Tableau analytics platform. It adds automated insights, natural-language explanations and forecasting to visual analysis, so business users can get readable conclusions and suggested next steps from data without writing code."
+    },
+    "category": "dataAnalysis",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-93.png",
+    "tags": {
+      "zh": [
+        "数据可视化",
+        "Tableau",
+        "AI洞察",
+        "智能推荐",
+        "数据分析"
+      ],
+      "en": [
+        "AI",
+        "Data Analytics",
+        "Visualization",
+        "Business Intelligence",
+        "Enterprise"
+      ]
+    },
+    "url": "https://www.tableau.com/products/einstein-analytics",
+    "pricing": "freemium"
+  },
+  {
+    "id": 109,
+    "name": "二维码生成器",
+    "description": {
+      "zh": "一个简单易用的二维码生成工具，支持自定义样式和下载",
+      "en": "Simple and easy QR code generator with custom styles and download support"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-109.png",
+    "tags": {
+      "zh": [
+        "二维码",
+        "生成",
+        "自定义",
+        "下载"
+      ],
+      "en": [
+        "QR Code",
+        "Generate",
+        "Custom",
+        "Download"
+      ]
+    },
+    "url": "/tools/qr-code-generator.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "密码强度检测工具",
+    "description": {
+      "zh": "密码强度检测和安全评估工具",
+      "en": "Password strength detection and security assessment tool"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-107.png",
+    "tags": {
+      "zh": [
+        "密码",
+        "安全",
+        "检测",
+        "评估"
+      ],
+      "en": [
+        "Password",
+        "Security",
+        "Check",
+        "Assessment"
+      ]
+    },
+    "url": "/tools/password-strength.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "JSON格式化工具",
+    "description": {
+      "zh": "一个强大的JSON格式化和验证工具，支持语法高亮和压缩",
+      "en": "Powerful JSON formatting and validation tool with syntax highlighting and compression"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-108.png",
+    "tags": {
+      "zh": [
+        "JSON",
+        "格式化",
+        "验证",
+        "开发"
+      ],
+      "en": [
+        "JSON",
+        "Format",
+        "Validate",
+        "Development"
+      ]
+    },
+    "url": "/tools/json-formatter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "头像生成器 - 简约版",
+    "description": {
+      "zh": "极简头像生成工具，输入任意文字即可生成独特的个性化头像。支持12种风格选择，PNG/JPG/SVG多格式下载，中英文双语界面。",
+      "en": "Minimal avatar generation tool, enter any text to generate unique personalized avatars. Supports 12 style choices, PNG/JPG/SVG multi-format downloads, bilingual Chinese-English interface."
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-119.png",
+    "tags": {
+      "zh": [
+        "头像生成",
+        "简约设计",
+        "多格式",
+        "快捷键",
+        "双语支持"
+      ],
+      "en": [
+        "Avatar Generator",
+        "Minimal Design",
+        "Multi-format",
+        "Shortcuts",
+        "Bilingual"
+      ]
+    },
+    "url": "/tools/Avatar-Generator-Minimal.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "头像生成器 - 高级版",
+    "description": {
+      "zh": "支持 28 种头像风格、高级外观调整、批量生成、收藏管理和多格式下载的完整头像制作工具。",
+      "en": "A full avatar creation tool with 28 styles, advanced appearance controls, batch generation, favorites, and multi-format downloads."
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-153.png",
+    "tags": {
+      "zh": [
+        "头像生成",
+        "高级自定义",
+        "批量生成",
+        "多格式",
+        "本地收藏"
+      ],
+      "en": [
+        "Avatar Generator",
+        "Advanced Controls",
+        "Batch Generation",
+        "Multi-format",
+        "Local Favorites"
+      ]
+    },
+    "url": "/tools/ai-avatar-generator-notion-style.html",
+    "pricing": "free",
+    "listedOn": "2026-10-08",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "2048游戏",
+    "description": {
+      "zh": "经典数字消除游戏，通过合并相同数字达到2048",
+      "en": "Classic number merging game, combine same numbers to reach 2048"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-120.png",
+    "tags": {
+      "zh": [
+        "游戏",
+        "数字",
+        "益智",
+        "休闲"
+      ],
+      "en": [
+        "Game",
+        "Numbers",
+        "Puzzle",
+        "Casual"
+      ]
+    },
+    "url": "/tools/2048-game.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "亲戚关系计算器",
+    "description": {
+      "zh": "快速计算和理解复杂的中文亲戚关系称谓",
+      "en": "Quickly calculate and understand complex Chinese family relationship terms"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-114.png",
+    "tags": {
+      "zh": [
+        "亲戚关系",
+        "称谓",
+        "计算",
+        "中文"
+      ],
+      "en": [
+        "Family Relations",
+        "Terms",
+        "Calculate",
+        "Chinese"
+      ]
+    },
+    "url": "/tools/relationship-calculator.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "习惯养成挑战",
+    "description": {
+      "zh": "通过科学的方法和持续的练习，帮助您养成良好习惯，改善生活质量",
+      "en": "Build good habits through scientific methods and consistent practice to improve life quality"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-115.png",
+    "tags": {
+      "zh": [
+        "习惯",
+        "挑战",
+        "自我管理",
+        "生活"
+      ],
+      "en": [
+        "Habit",
+        "Challenge",
+        "Self Management",
+        "Life"
+      ]
+    },
+    "url": "/tools/habit-tracker.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "文本格式化工具",
+    "description": {
+      "zh": "一个强大的文本处理工具，支持多种格式化操作",
+      "en": "Powerful text processing tool with multiple formatting operations"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-116.png",
+    "tags": {
+      "zh": [
+        "文本",
+        "格式化",
+        "处理",
+        "编辑"
+      ],
+      "en": [
+        "Text",
+        "Format",
+        "Process",
+        "Edit"
+      ]
+    },
+    "url": "/tools/text-formatter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "人情记账本",
+    "description": {
+      "zh": "记录和管理人情往来收支，帮助您更好地处理社交财务关系",
+      "en": "Record and manage social financial relationships for better social expense tracking"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-121.png",
+    "tags": {
+      "zh": [
+        "记账",
+        "人情",
+        "社交",
+        "财务"
+      ],
+      "en": [
+        "Bookkeeping",
+        "Social",
+        "Relationship",
+        "Finance"
+      ]
+    },
+    "url": "/tools/gift-money-tracker.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Notion Page ID 提取工具",
+    "description": {
+      "zh": "快速提取Notion页面URL中的Page ID，支持多种URL格式",
+      "en": "Quickly extract Page ID from Notion page URLs with multiple format support"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-118.png",
+    "tags": {
+      "zh": [
+        "Notion",
+        "页面ID",
+        "提取",
+        "URL"
+      ],
+      "en": [
+        "Notion",
+        "Page ID",
+        "Extract",
+        "URL"
+      ]
+    },
+    "url": "/tools/notion-page-id-extractor-check.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "IP查询工具",
+    "description": {
+      "zh": "查询IP地址的地理位置、ISP信息等详细信息，支持IPv4和IPv6地址查询",
+      "en": "Query IP address geolocation, ISP information with IPv4 and IPv6 support"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-111.png",
+    "tags": {
+      "zh": [
+        "IP",
+        "查询",
+        "地理位置",
+        "网络"
+      ],
+      "en": [
+        "IP",
+        "Query",
+        "Geolocation",
+        "Network"
+      ]
+    },
+    "url": "/tools/ip-lookup.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "网盘链接转换工具",
+    "description": {
+      "zh": "网盘链接格式转换和管理工具",
+      "en": "Cloud storage link format conversion and management tool"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-113.png",
+    "tags": {
+      "zh": [
+        "网盘",
+        "链接",
+        "转换",
+        "管理"
+      ],
+      "en": [
+        "Cloud Storage",
+        "Link",
+        "Convert",
+        "Manage"
+      ]
+    },
+    "url": "/tools/netdisk-link-converter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "PDF分割合并工具",
+    "description": {
+      "zh": "专业级PDF处理工具，支持按页码分割PDF文件或将多个PDF文件合并为一个",
+      "en": "Professional PDF processing tool supporting page splitting and merging multiple PDFs"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-104.png",
+    "tags": {
+      "zh": [
+        "PDF",
+        "分割",
+        "合并",
+        "处理"
+      ],
+      "en": [
+        "PDF",
+        "Split",
+        "Merge",
+        "Process"
+      ]
+    },
+    "url": "/tools/pdf-splitter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "文件格式转换工具",
+    "description": {
+      "zh": "支持多种文件格式相互转换，包括文档、表格、演示文稿等，完全在浏览器中处理，保护您的隐私",
+      "en": "Convert between various file formats including documents, spreadsheets, presentations with browser-based privacy protection"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-103.png",
+    "tags": {
+      "zh": [
+        "文件转换",
+        "格式",
+        "文档",
+        "隐私"
+      ],
+      "en": [
+        "File Convert",
+        "Format",
+        "Document",
+        "Privacy"
+      ]
+    },
+    "url": "/tools/file-converter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "颜色选择器",
+    "description": {
+      "zh": "一个直观的颜色选择工具，支持RGB、HSL等多种颜色格式",
+      "en": "Intuitive color picker tool supporting RGB, HSL and various color formats"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-110.png",
+    "tags": {
+      "zh": [
+        "颜色",
+        "调色板",
+        "RGB",
+        "设计"
+      ],
+      "en": [
+        "Color",
+        "Palette",
+        "RGB",
+        "Design"
+      ]
+    },
+    "url": "/tools/color-picker.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "倒计时工具",
+    "description": {
+      "zh": "创建和管理多个倒计时，支持自定义时间、预设模板和提醒功能",
+      "en": "Create and manage multiple countdowns with custom time, templates and notifications"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-106.png",
+    "tags": {
+      "zh": [
+        "倒计时",
+        "计时器",
+        "提醒",
+        "时间管理"
+      ],
+      "en": [
+        "Countdown",
+        "Timer",
+        "Reminder",
+        "Time Management"
+      ]
+    },
+    "url": "/tools/countdown-timer.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "文字计数器",
+    "description": {
+      "zh": "一个强大的文字统计工具，实时显示文本的各种统计信息",
+      "en": "Powerful text statistics tool with real-time text analysis information"
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-101.png",
+    "tags": {
+      "zh": [
+        "文字",
+        "计数",
+        "统计",
+        "分析"
+      ],
+      "en": [
+        "Text",
+        "Count",
+        "Statistics",
+        "Analysis"
+      ]
+    },
+    "url": "/tools/character-counter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "URL编码解码工具",
+    "description": {
+      "zh": "功能强大的URL编码解码工具，支持URL、Base64、HTML实体编码，批量处理、历史记录等高级功能",
+      "en": "Enhanced URL encoding/decoding tool with URL, Base64, HTML entity encoding, batch processing, history and advanced features"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-122.png",
+    "tags": {
+      "zh": [
+        "URL编码",
+        "Base64",
+        "HTML实体",
+        "批量处理",
+        "历史记录"
+      ],
+      "en": [
+        "URL Encoding",
+        "Base64",
+        "HTML Entity",
+        "Batch Processing",
+        "History"
+      ]
+    },
+    "url": "/tools/url-encoder-enhanced.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "番茄时钟",
+    "description": {
+      "zh": "专业番茄工作法计时器，支持多主题、统计功能、桌面通知、自定义时长，提升专注力和工作效率",
+      "en": "Professional Pomodoro timer with multiple themes, statistics, desktop notifications, custom durations to enhance focus and productivity"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-123.png",
+    "tags": {
+      "zh": [
+        "番茄工作法",
+        "多主题",
+        "统计功能",
+        "桌面通知",
+        "专注力"
+      ],
+      "en": [
+        "Pomodoro Technique",
+        "Multiple Themes",
+        "Statistics",
+        "Desktop Notifications",
+        "Focus"
+      ]
+    },
+    "url": "/tools/pomodoro-timer-pro.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "AA记账系统 - 优化版",
+    "description": {
+      "zh": "现代化的AA记账管理系统，支持个人记账和团队分账，智能算法、数据可视化、明暗主题切换",
+      "en": "Modern AA accounting management system supporting personal bookkeeping and team splitting with smart algorithms, data visualization, and theme switching"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-124.png",
+    "tags": {
+      "zh": [
+        "AA分账",
+        "记账管理",
+        "数据可视化",
+        "团队协作",
+        "智能算法"
+      ],
+      "en": [
+        "AA Splitting",
+        "Accounting Management",
+        "Data Visualization",
+        "Team Collaboration",
+        "Smart Algorithm"
+      ]
+    },
+    "url": "/tools/aa-accounting/index.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "诗词学习系统",
+    "description": {
+      "zh": "中华诗词学习和测试系统，包含丰富的古诗词库，支持背诵练习、诗词赏析、知识测试",
+      "en": "Chinese poetry learning and testing system with rich ancient poetry collection, recitation practice, poetry appreciation, and knowledge testing"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-125.png",
+    "tags": {
+      "zh": [
+        "古诗词",
+        "学习系统",
+        "背诵练习",
+        "文化传承",
+        "知识测试"
+      ],
+      "en": [
+        "Ancient Poetry",
+        "Learning System",
+        "Recitation Practice",
+        "Cultural Heritage",
+        "Knowledge Test"
+      ]
+    },
+    "url": "/tools/poetry-learning-system.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "小红书海报生成器",
+    "description": {
+      "zh": "专业的小红书营销海报制作工具，支持多种模板、自定义设计，快速生成吸引眼球的社交媒体内容",
+      "en": "Professional Xiaohongshu marketing poster generator with multiple templates, custom design for creating attractive social media content"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-126.png",
+    "tags": {
+      "zh": [
+        "小红书",
+        "海报生成",
+        "营销工具",
+        "社交媒体",
+        "内容创作"
+      ],
+      "en": [
+        "Xiaohongshu",
+        "Poster Generator",
+        "Marketing Tool",
+        "Social Media",
+        "Content Creation"
+      ]
+    },
+    "url": "/tools/xiaohongshu-poster-generator.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "网络连通性检测",
+    "description": {
+      "zh": "专业版网络连通性检测工具，实时监测多个海外服务状态，支持延迟测试、状态历史记录",
+      "en": "Professional network connectivity checker with real-time monitoring of overseas services, latency testing, and status history"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-127.png",
+    "tags": {
+      "zh": [
+        "网络检测",
+        "连通性测试",
+        "延迟监控",
+        "海外服务",
+        "状态监控"
+      ],
+      "en": [
+        "Network Testing",
+        "Connectivity Check",
+        "Latency Monitor",
+        "Overseas Services",
+        "Status Monitor"
+      ]
+    },
+    "url": "/tools/network-connectivity-checker-pro.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "智能汇率转换器",
+    "description": {
+      "zh": "智能汇率转换器专业版，支持实时汇率、历史汇率查询、汇率走势图表、多货币计算",
+      "en": "Smart currency converter Pro with real-time rates, historical rate queries, trend charts, and multi-currency calculations"
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-128.png",
+    "tags": {
+      "zh": [
+        "汇率转换",
+        "实时汇率",
+        "历史数据",
+        "走势图表",
+        "多货币"
+      ],
+      "en": [
+        "Currency Conversion",
+        "Real-time Rates",
+        "Historical Data",
+        "Trend Charts",
+        "Multi-currency"
+      ]
+    },
+    "url": "/tools/smart-currency-converter.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "PixelCompare AI",
+    "description": {
+      "zh": "基于 Gemini AI 的智能图片对比分析工具，深度分析技术参数和美学质量，提供专业的图像评估报告。",
+      "en": "Intelligent image comparison tool powered by Gemini AI for technical and aesthetic analysis with professional evaluation reports."
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-129.png",
+    "tags": {
+      "zh": [
+        "AI",
+        "图片分析",
+        "图片对比",
+        "Gemini AI",
+        "技术评估",
+        "美学评分"
+      ],
+      "en": [
+        "AI",
+        "Image Analysis",
+        "Image Comparison",
+        "Gemini AI",
+        "Technical Assessment",
+        "Aesthetic Scoring"
+      ]
+    },
+    "url": "/tools/pixelcompare-ai",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "AI ID Photo Expert",
+    "description": {
+      "zh": "AI 驱动的智能证件照生成工具，一键将自拍转换为符合规范的专业证件照，自动处理背景和服装。",
+      "en": "AI-powered ID photo generator that transforms selfies into compliant professional ID photos with automatic background and clothing adjustment."
+    },
+    "category": "imageGeneration",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-130.png",
+    "tags": {
+      "zh": [
+        "AI",
+        "证件照",
+        "图片生成",
+        "Gemini AI",
+        "背景替换",
+        "智能处理"
+      ],
+      "en": [
+        "AI",
+        "ID Photo",
+        "Image Generation",
+        "Gemini AI",
+        "Background Replacement",
+        "Smart Processing"
+      ]
+    },
+    "url": "/tools/ai-photo-expert",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "LingYi HTML Runner",
+    "description": {
+      "zh": "现代化的 HTML/CSS/JS 在线代码编辑器和运行环境，支持 AI 辅助编码、实时预览、代码格式化和智能提示。",
+      "en": "Modern HTML/CSS/JS online code editor and runtime with AI-assisted coding, live preview, code formatting, and intelligent suggestions."
+    },
+    "category": "codeAssistant",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-131.png",
+    "tags": {
+      "zh": [
+        "AI编程",
+        "代码编辑器",
+        "HTML运行器",
+        "实时预览",
+        "Gemini AI",
+        "代码格式化",
+        "在线开发"
+      ],
+      "en": [
+        "AI Coding",
+        "Code Editor",
+        "HTML Runner",
+        "Live Preview",
+        "Gemini AI",
+        "Code Formatting",
+        "Online IDE"
+      ]
+    },
+    "url": "/tools/html-runner",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "JSON / Base64 图片提取器",
+    "description": {
+      "zh": "把 API 返回的 JSON、b64_json 或 data:image/...;base64 一键还原成可见图片，并下载为 PNG。",
+      "en": "Restore images from JSON responses, b64_json fields, or data:image/...;base64 strings and export them as PNG."
+    },
+    "category": "imageTools",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-132.png",
+    "tags": {
+      "zh": [
+        "Base64",
+        "JSON",
+        "图片提取",
+        "PNG",
+        "OpenAI"
+      ],
+      "en": [
+        "Base64",
+        "JSON",
+        "Image Extractor",
+        "PNG",
+        "OpenAI"
+      ]
+    },
+    "url": "/tools/base64-image-decoder",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "账号整理工具",
+    "description": {
+      "zh": "批量管理 Outlook 等邮箱账号，支持快速登录、2FA、验证码链接、状态/等级组合筛选、批量改状态/等级、含图 Excel 导出和完整备份。",
+      "en": "Batch manage Outlook-style email accounts with quick login, 2FA, SMS links, combined status/plan filters, bulk status/plan updates, image Excel export, and full backups."
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-133.png",
+    "tags": {
+      "zh": [
+        "账号管理",
+        "Outlook",
+        "邮箱工具",
+        "2FA",
+        "批量操作",
+        "本地工具"
+      ],
+      "en": [
+        "Account",
+        "Outlook",
+        "Email",
+        "2FA",
+        "Productivity",
+        "Local Tool"
+      ]
+    },
+    "url": "/tools/outlook-checker.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "拼豆图案生成器",
+    "description": {
+      "zh": "上传图片自动转换为拼豆像素图，支持多种网格尺寸和自定义颜色数量，附带颜色清单和用量统计，一键下载图案。",
+      "en": "Convert any image to a perler beads pixel art pattern with customizable grid sizes and color counts. Includes BOM and one-click download."
+    },
+    "category": "design",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-134.png",
+    "tags": {
+      "zh": [
+        "拼豆",
+        "像素画",
+        "图案生成",
+        "手工",
+        "本地工具"
+      ],
+      "en": [
+        "Perler Beads",
+        "Pixel Art",
+        "Pattern",
+        "Craft",
+        "Local Tool"
+      ]
+    },
+    "url": "/tools/perler-beads.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "StepBack 康复助手",
+    "description": {
+      "zh": "足部骨折、崴脚、韧带损伤的每日康复记录 Dashboard。记录疼痛肿胀、负重训练，自动分析趋势并给出次日建议，数据仅存本地。",
+      "en": "Daily rehab dashboard for foot fractures, sprains, and ligament injuries. Track pain, swelling, and training with local-only data and trend insights."
+    },
+    "category": "utility",
+    "featured": true,
+    "logo": "https://lingyi.tools/images/tools/tool-135.png",
+    "tags": {
+      "zh": [
+        "康复",
+        "骨折",
+        "崴脚",
+        "足部",
+        "健康记录",
+        "本地工具"
+      ],
+      "en": [
+        "Recovery",
+        "Fracture",
+        "Sprain",
+        "Foot",
+        "Health",
+        "Local Tool"
+      ]
+    },
+    "url": "/tools/stepback/index.html",
+    "pricing": "free",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "豆包",
+    "description": {
+      "zh": "字节跳动推出的中文 AI 助手，适合日常问答、写作和多模态交流。",
+      "en": "ByteDance's Chinese AI assistant for everyday questions, writing and multimodal conversations."
+    },
+    "category": "chatbot",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-136.png",
+    "tags": {
+      "zh": [
+        "中文对话",
+        "写作",
+        "多模态"
+      ],
+      "en": [
+        "Chinese",
+        "Chat",
+        "Multimodal"
+      ]
+    },
+    "url": "https://www.doubao.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 137,
+    "name": "ChatGPT Images",
+    "description": {
+      "zh": "在 ChatGPT 中通过自然语言生成和编辑图片，适合快速构思与视觉创作。",
+      "en": "Generate and edit images with natural language in ChatGPT for rapid ideation and visual creation."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-137.png",
+    "tags": {
+      "zh": [
+        "图像生成",
+        "图像编辑",
+        "OpenAI"
+      ],
+      "en": [
+        "Image Generation",
+        "Image Editing",
+        "OpenAI"
+      ]
+    },
+    "url": "https://chatgpt.com/images",
+    "pricing": "freemium"
+  },
+  {
+    "id": 138,
+    "name": "Grok Imagine",
+    "description": {
+      "zh": "Grok 内置的图像生成能力，用文字提示快速创建和探索视觉创意。",
+      "en": "Grok's built-in image generation experience for quickly exploring visual ideas from prompts."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-138.png",
+    "tags": {
+      "zh": [
+        "图像生成",
+        "创意",
+        "Grok"
+      ],
+      "en": [
+        "Image Generation",
+        "Creative",
+        "Grok"
+      ]
+    },
+    "url": "https://grok.com/imagine",
+    "pricing": "freemium"
+  },
+  {
+    "id": 139,
+    "name": "Codex",
+    "description": {
+      "zh": "OpenAI 的编程智能体，可在真实代码仓库中理解需求、编写代码、运行命令并协助交付。",
+      "en": "OpenAI's coding agent for understanding repositories, writing code, running commands and helping ship software."
+    },
+    "category": "codeAssistant",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-139.png",
+    "tags": {
+      "zh": [
+        "编程智能体",
+        "代码",
+        "OpenAI"
+      ],
+      "en": [
+        "Coding Agent",
+        "Code",
+        "OpenAI"
+      ]
+    },
+    "url": "https://openai.com/codex/",
+    "pricing": "paid"
+  },
+  {
+    "id": 140,
+    "name": "Claude Code",
+    "description": {
+      "zh": "Anthropic 的终端编程智能体，可理解代码库并协助开发、调试和重构。",
+      "en": "Anthropic's terminal coding agent for understanding codebases, development, debugging and refactoring."
+    },
+    "category": "codeAssistant",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-140.png",
+    "tags": {
+      "zh": [
+        "编程智能体",
+        "终端",
+        "Anthropic"
+      ],
+      "en": [
+        "Coding Agent",
+        "Terminal",
+        "Anthropic"
+      ]
+    },
+    "url": "https://www.anthropic.com/claude-code",
+    "pricing": "paid",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "即梦 AI",
+    "description": {
+      "zh": "剪映旗下的 AI 创作平台，支持中文提示词生成图片和视频。",
+      "en": "An AI creation platform from CapCut/Jianying for generating images and videos with Chinese prompts."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-141.png",
+    "tags": {
+      "zh": [
+        "视频生成",
+        "图像生成",
+        "中文"
+      ],
+      "en": [
+        "Video Generation",
+        "Image Generation",
+        "Chinese"
+      ]
+    },
+    "url": "https://jimeng.jianying.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 142,
+    "name": "可灵 AI",
+    "description": {
+      "zh": "快手推出的 AI 视频与图像创作平台，适合生成高质量动态画面。",
+      "en": "Kuaishou's AI video and image creation platform for producing high-quality motion visuals."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-142.png",
+    "tags": {
+      "zh": [
+        "视频生成",
+        "图生视频",
+        "创意"
+      ],
+      "en": [
+        "Video Generation",
+        "Image to Video",
+        "Creative"
+      ]
+    },
+    "url": "https://klingai.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 143,
+    "name": "网易天音",
+    "description": {
+      "zh": "网易推出的 AI 音乐创作工具，可辅助作词、作曲和歌曲生成。",
+      "en": "NetEase's AI music creation tool for lyrics, composition and song generation."
+    },
+    "category": "musicCreation",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-143.png",
+    "tags": {
+      "zh": [
+        "音乐创作",
+        "作词",
+        "作曲"
+      ],
+      "en": [
+        "Music Creation",
+        "Lyrics",
+        "Composition"
+      ]
+    },
+    "url": "https://tianyin.music.163.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 144,
+    "name": "Gemini Deep Research",
+    "description": {
+      "zh": "Gemini 的深度研究功能，可规划检索、综合多个来源并生成结构化研究报告。",
+      "en": "Gemini's research mode for planning searches, synthesizing sources and producing structured reports."
+    },
+    "category": "searchResearch",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-144.png",
+    "tags": {
+      "zh": [
+        "深度研究",
+        "搜索",
+        "报告"
+      ],
+      "en": [
+        "Deep Research",
+        "Search",
+        "Reports"
+      ]
+    },
+    "url": "https://gemini.google.com/deepresearch",
+    "pricing": "freemium"
+  },
+  {
+    "id": 145,
+    "name": "沉浸式翻译",
+    "description": {
+      "zh": "网页双语对照翻译工具，支持网站、PDF、视频字幕等多种内容。",
+      "en": "A bilingual translation tool for websites, PDFs, video subtitles and other content."
+    },
+    "category": "translation",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-145.png",
+    "tags": {
+      "zh": [
+        "双语翻译",
+        "网页翻译",
+        "PDF"
+      ],
+      "en": [
+        "Bilingual",
+        "Web Translation",
+        "PDF"
+      ]
+    },
+    "url": "https://immersivetranslate.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 146,
+    "name": "GitHub",
+    "description": {
+      "zh": "GitHub 是全球最大的代码托管与协作平台，基于 Git 做版本管理，围绕仓库提供代码评审（Pull Request）、问题跟踪（Issues）、自动化流水线（Actions）与包管理等完整的研发协作能力；其 AI 编程助手 Copilot 也集成在平台与主流编辑器中。",
+      "en": "GitHub is the world's largest code hosting and collaboration platform. Built on Git, it wraps repositories with pull-request code review, issue tracking, CI/CD automation (Actions) and package management, and its Copilot AI assistant is integrated into the platform and major editors."
+    },
+    "category": "devPlatform",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-146.png",
+    "tags": {
+      "zh": [
+        "代码托管",
+        "Git",
+        "协作"
+      ],
+      "en": [
+        "Code Hosting",
+        "Git",
+        "Collaboration"
+      ]
+    },
+    "url": "https://github.com/",
+    "pricing": "freemium"
+  },
+  {
+    "id": 147,
+    "name": "Cloudflare",
+    "description": {
+      "zh": "Cloudflare 是全球边缘网络与安全平台，最初以 CDN 加速与 DDoS 防护闻名，如今还提供域名注册、DNS 解析、Workers 无服务器计算、R2 对象存储与 Zero Trust 安全接入，开发者可以把网站、API 与应用部署到它的全球边缘网络上。",
+      "en": "Cloudflare is a global edge network and security platform. Known first for CDN acceleration and DDoS protection, it now also offers domain registration, DNS, serverless compute with Workers, R2 object storage and Zero Trust access, so websites, APIs and apps can run on its edge network worldwide."
+    },
+    "category": "devPlatform",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-147.png",
+    "tags": {
+      "zh": [
+        "部署",
+        "CDN",
+        "边缘计算"
+      ],
+      "en": [
+        "Deployment",
+        "CDN",
+        "Edge Computing"
+      ]
+    },
+    "url": "https://www.cloudflare.com/",
+    "pricing": "freemium",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Vercel",
+    "description": {
+      "zh": "Vercel 是面向前端与全栈应用的部署平台，也是 Next.js 的出品方。它把 Git 仓库与自动部署打通：每次推送自动构建上线，每个 Pull Request 自动生成独立预览地址，并自带全球边缘分发、函数计算与运行分析。",
+      "en": "Vercel is a deployment platform for frontend and full-stack apps, and the company behind Next.js. It connects Git repositories to automatic deployments: every push builds and ships, every pull request gets its own preview URL, and global edge delivery, functions and analytics are built in."
+    },
+    "category": "devPlatform",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-148.png",
+    "tags": {
+      "zh": [
+        "部署",
+        "前端",
+        "预览环境"
+      ],
+      "en": [
+        "Deployment",
+        "Frontend",
+        "Preview"
+      ]
+    },
+    "url": "https://vercel.com/",
+    "pricing": "freemium",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Raycast",
+    "description": {
+      "zh": "macOS 效率启动器，可通过快捷命令、扩展和 AI 加速日常工作流。",
+      "en": "A macOS productivity launcher that speeds up workflows with commands, extensions and AI."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-149.png",
+    "tags": {
+      "zh": [
+        "macOS",
+        "启动器",
+        "效率"
+      ],
+      "en": [
+        "macOS",
+        "Launcher",
+        "Productivity"
+      ]
+    },
+    "url": "https://www.raycast.com/",
+    "pricing": "freemium",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Obsidian",
+    "description": {
+      "zh": "以本地 Markdown 为核心的知识管理工具，适合构建个人笔记与双向链接知识库。",
+      "en": "A local-first Markdown knowledge tool for personal notes and linked knowledge bases."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-150.png",
+    "tags": {
+      "zh": [
+        "知识管理",
+        "Markdown",
+        "本地优先"
+      ],
+      "en": [
+        "Knowledge Management",
+        "Markdown",
+        "Local First"
+      ]
+    },
+    "url": "https://obsidian.md/",
+    "pricing": "freemium",
+    "languages": [
+      "en",
+      "zh",
+      "zh-TW",
+      "ja",
+      "ko",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "ru",
+      "it",
+      "ar",
+      "id",
+      "vi",
+      "th"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Today.ai",
+    "description": {
+      "zh": "以记忆和主动协助为核心的个人 AI 助手，用于整理上下文并推进日常任务。",
+      "en": "A personal AI assistant centered on memory and proactive help for organizing context and moving work forward."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-151.png",
+    "tags": {
+      "zh": [
+        "个人助手",
+        "记忆",
+        "生产力"
+      ],
+      "en": [
+        "Personal Assistant",
+        "Memory",
+        "Productivity"
+      ]
+    },
+    "url": "https://today.ai/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-08"
+  },
+  {
+    "id": 155,
+    "name": "数字进制转换器",
+    "description": {
+      "zh": "支持2-36进制转换、浮点数、自动识别与智能提示，高级模式包含度量衡、数据存储、时间日期等 7 大类转换，移动端友好，纯本地运行。",
+      "en": "Convert numbers across bases 2-36 with floating-point support, auto-detection, and 7 advanced conversion categories. Runs fully offline and locally."
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-155.png",
+    "tags": {
+      "zh": [
+        "进制转换",
+        "二进制",
+        "十六进制",
+        "度量衡",
+        "本地工具"
+      ],
+      "en": [
+        "Number Base",
+        "Binary",
+        "Hexadecimal",
+        "Measurement",
+        "Local Tool"
+      ]
+    },
+    "url": "/tools/number-base-converter.html",
+    "pricing": "free",
+    "listedOn": "2026-10-08",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "快递管理系统",
+    "description": {
+      "zh": "本地运行的快递管理系统，支持寄件收件登记、单号自动识别、OCR 图片识别、批量操作、CSV 导入导出与数据分析，数据仅存浏览器。",
+      "en": "Local-first express package manager with auto tracking-number detection, OCR import, batch operations, CSV import/export, and analytics. Data stays in your browser."
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-154.png",
+    "tags": {
+      "zh": [
+        "快递管理",
+        "单号识别",
+        "批量操作",
+        "数据分析",
+        "本地工具"
+      ],
+      "en": [
+        "Express Tracking",
+        "Auto Detection",
+        "Batch Ops",
+        "Analytics",
+        "Local Tool"
+      ]
+    },
+    "url": "/tools/express-tracker.html",
+    "pricing": "free",
+    "listedOn": "2026-10-08",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Muse Codes",
+    "description": {
+      "zh": "Muse 邀请码池：有码的人分享邀请码赚邀请奖励，没码的人免费匿名登录、随机领一个还有剩余次数的码。每个码按 Muse 显示的剩余次数精确发放，用完立即停发。",
+      "en": "A pool of Muse invite codes: share yours to earn referral tokens, or sign in free (no email) and get a random code that still has uses left. Each code is handed out only up to the uses Muse shows, and stops the moment it runs out."
+    },
+    "category": "utility",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/tool-166.png",
+    "tags": {
+      "zh": [
+        "Muse",
+        "邀请码",
+        "邀请奖励",
+        "免费token"
+      ],
+      "en": [
+        "Muse",
+        "Invite Codes",
+        "Referral Rewards",
+        "Free Tokens"
+      ]
+    },
+    "url": "https://muse.lingyi.tools/",
+    "pricing": "free",
+    "listedOn": "2026-10-18",
+    "languages": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Krea",
+    "description": {
+      "zh": "Krea 的 AI 视频生成器支持通过文字或图片创建视频，并在同一工作区比较、延长和组合不同模型生成的结果。",
+      "en": "Krea's AI video generator creates videos from text or images and lets creators compare, extend and combine results from multiple models in one workspace."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://lingyi.tools/images/tools/krea.png",
+    "tags": {
+      "zh": [
+        "AI 视频生成",
+        "文生视频",
+        "图生视频",
+        "多模型"
+      ],
+      "en": [
+        "AI Video Generation",
+        "Text to Video",
+        "Image to Video",
+        "Multiple Models"
+      ]
+    },
+    "url": "https://www.krea.ai/features/ai-video-generator",
+    "pricing": "freemium",
+    "listedOn": "2026-10-06"
+  },
+  {
+    "id": 156,
+    "name": "ImageToSTL",
+    "description": {
+      "zh": "AI 照片转 3D 工具：上传一张照片，自动生成带纹理、可直接 3D 打印的 STL 模型，无需建模经验。适合创客、3D 打印爱好者、手办/礼品定制与游戏素材。免费在线试用，高级功能订阅。",
+      "en": "AI photo-to-3D tool: upload a photo and automatically generate a textured, 3D-printable STL model with no modeling experience needed. Great for makers, 3D printing hobbyists, figurine and gift customization, and game assets. Free online trial with advanced features via subscription."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://imagetostl.im/apple-touch-icon.png",
+    "tags": {
+      "zh": [
+        "图生3D",
+        "3D打印",
+        "STL",
+        "AI 3D建模"
+      ],
+      "en": [
+        "Image to 3D",
+        "3D Printing",
+        "STL",
+        "AI 3D Modeling"
+      ]
+    },
+    "url": "https://imagetostl.im/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-10"
+  },
+  {
+    "id": 157,
+    "name": "AIProductAds",
+    "description": {
+      "zh": "电商卖家和数字广告主可以通过照片或文字提示生成视频广告和产品视觉图。支持图生视频、文生视频、多种 AI 生成模型和多种画幅比例，满足多样化的营销规格需求，帮助卖家为促销活动制作定制素材。按积分扣费，提供试用额度。",
+      "en": "Ecommerce store owners and digital advertisers can generate video ads and product visuals from photos or text prompts using AIProductAds. With image-to-video and text-to-video features, multiple AI generation models, and various aspect ratios, the tool accommodates diverse marketing specifications. This helps sellers produce tailored assets for promotional campaigns. The software runs on credit-based plans, with trial credits offered when enabled."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://aiproductads.app/apple-touch-icon.png",
+    "tags": {
+      "zh": [
+        "AI 视频广告",
+        "电商营销",
+        "产品视频",
+        "图生视频"
+      ],
+      "en": [
+        "AI Video Ads",
+        "Ecommerce Marketing",
+        "Product Video",
+        "Image to Video"
+      ]
+    },
+    "url": "https://aiproductads.app/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-10"
+  },
+  {
+    "id": 158,
+    "name": "AI Image Cleaner",
+    "description": {
+      "zh": "在线 AI 照片清理工具，可直接在浏览器中去除照片里多余的物体、人物、水印和文字，无需安装软件。上传照片，涂抹想要去掉的部分，AI 会自然填充背景。",
+      "en": "AI Image Cleaner is an online AI photo cleanup tool that removes unwanted objects, people, watermarks, and text from images in your browser—no software install required. Upload a photo, brush over what you want gone, and let AI fill the background naturally."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://ai-image-cleaner.com/assets/brand/logo.png",
+    "tags": {
+      "zh": [
+        "AI 抠除",
+        "去水印",
+        "物体移除",
+        "照片清理"
+      ],
+      "en": [
+        "AI Image Cleaner",
+        "AI Object Remover",
+        "AI Watermark Remover",
+        "AI Inpainting"
+      ]
+    },
+    "url": "https://ai-image-cleaner.com/",
+    "pricing": "free",
+    "listedOn": "2026-10-10"
+  },
+  {
+    "id": 159,
+    "name": "AIforASMR",
+    "description": {
+      "zh": "AI ASMR 视频生成工具，用文字提示或上传图片即可生成放松助眠的视频。内置专门的 ASMR 工作区、环境音和约 50 个现成模板（雨声、海浪、篝火、轻语、敲击等），支持 Veo 3.1、Seedance 等多个模型，可调画面比例、分辨率和时长，适合 ASMR 创作者、助眠频道和短视频内容制作。",
+      "en": "AIForASMR is an AI ASMR video generation tool that creates relaxing, sleep-friendly videos from text prompts or uploaded images. It features a dedicated ASMR workspace with ambient sounds and about 50 ready-made templates (rain, ocean waves, campfire, whispers, tapping and more), supports multiple models including Veo 3.1 and Seedance, and lets you adjust aspect ratio, resolution and duration - built for ASMR creators, sleep channels and short-form video content."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://aiforasmr.com/logo.png",
+    "tags": {
+      "zh": [
+        "ASMR",
+        "AI 视频生成",
+        "助眠",
+        "文生视频"
+      ],
+      "en": [
+        "AI Video Generator",
+        "ASMR",
+        "Text to Video",
+        "Sleep"
+      ]
+    },
+    "url": "https://aiforasmr.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-13"
+  },
+  {
+    "id": 160,
+    "name": "FontKind AI",
+    "description": {
+      "zh": "FontKind AI 主打通过用户上传的照片，高质量还原个人笔迹，制作可安装、可重复使用的专属字体。同时支持根据文字描述和风格参考图生成字体，可预览自己的文字并下载 TTF 文件，覆盖 95 个 ASCII 字符。字体默认私有并支持商用。Pro 订阅每月 20 美元，Max 每月 200 美元。",
+      "en": "FontKind AI recreates personal handwriting as a high-quality font from uploaded photos. It also generates fonts from text descriptions and style reference images, with previews and downloadable TTF files covering 95 ASCII characters. Fonts are private by default and support commercial use. Paid plans start at $20/month."
+    },
+    "category": "design",
+    "featured": false,
+    "logo": "https://font.handwriting-ai.com/icon.svg",
+    "tags": {
+      "zh": [
+        "手写字体",
+        "字体制作",
+        "AI字体生成",
+        "字体设计"
+      ],
+      "en": [
+        "Handwriting",
+        "Fonts",
+        "Typography",
+        "AI Font Generator"
+      ]
+    },
+    "url": "https://font.handwriting-ai.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-14",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "ClipTalk",
+    "description": {
+      "zh": "ClipTalk 可将一句提示、一段脚本或一个产品页面变成可直接发布到 TikTok、Instagram Reels 和 YouTube Shorts 的成品短视频：自动撰写脚本、生成 AI 画面、添加配音、字幕和音乐，并渲染为 MP4。模板涵盖 UGC 广告、无露脸故事、讲解视频、问答测验和音乐视频，可在时间线中编辑或直接用文字提出修改。也可通过 MCP 服务器（https://www.cliptalk.pro/mcp）在 Claude、ChatGPT 和 Cursor 中使用。注册即送免费积分，付费方案每月 19 美元起。",
+      "en": "ClipTalk turns a prompt, script or product page into a finished short video for TikTok, Instagram Reels and YouTube Shorts: script, AI visuals, voiceover, captions and music, rendered as an MP4. Templates cover UGC ads, faceless stories, explainers, quizzes and music videos, and edits can be made in a timeline or by asking. It also works inside Claude, ChatGPT and Cursor through its MCP server (https://www.cliptalk.pro/mcp). Free credits on signup."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://raw.githubusercontent.com/payamsaremi/cliptalk-mcp/main/assets/icon-400.png",
+    "tags": {
+      "zh": [
+        "AI 视频生成",
+        "文本转视频",
+        "TikTok",
+        "无露脸视频"
+      ],
+      "en": [
+        "AI Video Generator",
+        "Text to Video",
+        "TikTok",
+        "Faceless Videos"
+      ]
+    },
+    "url": "https://www.cliptalk.pro/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-14",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "AITraining.jobs",
+    "description": {
+      "zh": "免费的AI训练工作招聘网站：汇总约60个平台上的AI训练师、评估员、数据标注员和领域专家的在线职位，并显示每个职位公布的时薪。每天从25个平台自己的职位数据源更新（2026年10月约有3,400个开放职位），涵盖RLHF与评估、编程、数学、法律、医学和金融专家工作、语音与音频、数据标注以及多语言职位。免费使用，浏览无需注册。",
+      "en": "A free job board for AI training work: live openings for AI trainers, evaluators, data annotators and domain experts across about 60 platforms, with the pay each advertises. Openings are pulled daily from 25 platforms' own job feeds (about 3,400 open roles in October 2026) and cover RLHF and evaluation, coding, math, law, medicine and finance expert work, voice and audio, data annotation and multilingual roles. Free, no signup needed."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://aitraining.jobs/brand/icon-512.png",
+    "tags": {
+      "zh": [
+        "招聘",
+        "AI训练",
+        "数据标注",
+        "RLHF",
+        "远程工作"
+      ],
+      "en": [
+        "Job Board",
+        "AI Jobs",
+        "Remote Jobs",
+        "Data Annotation",
+        "RLHF"
+      ]
+    },
+    "url": "https://aitraining.jobs/",
+    "pricing": "free",
+    "listedOn": "2026-10-16",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Imgkits",
+    "description": {
+      "zh": "Imgkits 是一站式在线 AI 图片与视频编辑平台，2021 年上线。可去除多余物体和水印、修复老照片、替换背景、增强画质并应用创意滤镜，适合创作者在浏览器中快速处理图片。有免费试用，另有按量付费和 Pro 订阅。",
+      "en": "Imgkits is an all-in-one online AI image and video editor, operating since 2021. It removes unwanted objects and watermarks, restores old photos, replaces backgrounds, enhances image quality and applies creative effects, all in the browser. Free trial available, with pay-as-you-go and Pro plans."
+    },
+    "category": "imageTools",
+    "featured": false,
+    "logo": "https://project.deletetweets.ai/logo/imgkits.webp",
+    "tags": {
+      "zh": [
+        "AI图片编辑",
+        "照片修复",
+        "背景去除",
+        "图片增强"
+      ],
+      "en": [
+        "AI Image Editor",
+        "Photo Restoration",
+        "Background Removal",
+        "Image Enhancement"
+      ]
+    },
+    "url": "https://imgkits.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-16",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "TransMonkey",
+    "description": {
+      "zh": "TransMonkey 是 AI 翻译平台，支持文档、图片和视频翻译，覆盖 130 多种语言，可处理 PDF、PPT 等复杂格式并尽量保留排版，另有 Chrome 扩展。新用户有免费试用额度，之后按量付费或订阅。",
+      "en": "TransMonkey translates documents, images, and videos with AI across 130+ languages, supporting complex formats like PDF and PPT while preserving the structure of translated files. A Chrome extension is also available. New users get free trial credits, then pay-as-you-go or subscription."
+    },
+    "category": "translation",
+    "featured": false,
+    "logo": "https://project.deletetweets.ai/logo/transmonkey.webp",
+    "tags": {
+      "zh": [
+        "AI翻译",
+        "文档翻译",
+        "图片翻译",
+        "视频翻译"
+      ],
+      "en": [
+        "AI Translation",
+        "Document Translation",
+        "Image Translation",
+        "Video Translation"
+      ]
+    },
+    "url": "https://www.transmonkey.ai/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-16",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Doc2X",
+    "description": {
+      "zh": "Doc2X 是 NoEdgeAI 推出的 AI 文档处理工具，能把 PDF、扫描件和图片解析为可编辑的 Word、Markdown、LaTeX，准确识别数学公式与表格；支持 PDF 与 Word 双语对照翻译、AI 校对和试题整理，另有 Zotero 插件、桌面端与浏览器插件和按页计费的开发者 API。免费档每月可领取 150 页解析额度，另有每天 8 页免费额度。",
+      "en": "Doc2X by NoEdgeAI converts PDFs, scans, and images into editable Word, Markdown, and LaTeX, with accurate recognition of math formulas and tables. It offers bilingual side-by-side translation for PDF and Word documents, AI proofreading, and exam-question organization, plus a Zotero plugin, desktop and browser apps, and a pay-per-page developer API. The free tier includes 150 claimable parsing pages per month plus a small daily free quota."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://open.noedgeai.com/brand/apple-touch-icon.png",
+    "tags": {
+      "zh": [
+        "PDF",
+        "OCR",
+        "文档解析",
+        "公式识别",
+        "表格识别",
+        "文档翻译"
+      ],
+      "en": [
+        "PDF",
+        "OCR",
+        "Document Parsing",
+        "Formula Recognition",
+        "Table Recognition",
+        "Document Translation"
+      ]
+    },
+    "url": "https://doc2x.noedgeai.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-19",
+    "languages": [
+      "zh"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "MangaTranslate",
+    "description": {
+      "zh": "MangaTranslate 是 Ficory LLC 的在线漫画翻译工具：上传漫画图片、PDF 或压缩包后自动 OCR 识别气泡文字、翻译并按原版式重新排字，支持批量处理和在线编辑器改稿、挪字框、换字体。目标语言 100 多种，翻译模型可选 GPT、DeepSeek、Grok 等。免登录每天有 5 个免费积分（约 2 到 5 页），注册签到可再领，付费有订阅与一次性积分包两种。",
+      "en": "MangaTranslate, by Ficory LLC, translates manga pages online: upload images, PDFs or archives and it OCRs the speech bubbles, translates them and re-typesets the page in its original layout, with batch processing and an online editor to fix dialogue, move text boxes and change fonts. It targets 100+ languages with a choice of translation models (GPT, DeepSeek, Grok and more). No sign-in is needed for 5 free credits a day (about 2-5 pages), with more via daily check-in, and paid subscriptions or one-time credit packs."
+    },
+    "category": "translation",
+    "featured": false,
+    "logo": "https://www.mangatranslate.com/static/default/images/logo.svg?v=327",
+    "tags": {
+      "zh": [
+        "漫画翻译",
+        "OCR",
+        "图片翻译",
+        "排版",
+        "批量翻译"
+      ],
+      "en": [
+        "Manga Translation",
+        "OCR",
+        "Image Translation",
+        "Typesetting",
+        "Batch Translation"
+      ]
+    },
+    "url": "https://www.mangatranslate.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-10-29",
+    "languages": [
+      "en",
+      "es",
+      "zh",
+      "zh-TW",
+      "ja",
+      "ko",
+      "de",
+      "fr",
+      "ar",
+      "bn",
+      "hi",
+      "ms",
+      "pt",
+      "ru",
+      "tr"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "iMini AI",
+    "description": {
+      "zh": "iMini AI 是 Nexus Line Limited 运营的一站式多模型 AI 创作平台：文生图、图生图、文生视频、图生视频同在一个工作区，聚合 Seedance 2.5、Nano Banana 2 与 Pro、GPT Image 2、Kling 3.0、Wan 2.7 等模型，另有创作智能体、模板库和无限画布。免费档每天有 1 次 Nano Banana 免费生成和 20 次对话；积分只随会员发放（Pro 每月 10000、Max 每月 30000、Ultra 每月 100000），月度积分不结转。",
+      "en": "iMini AI, run by Nexus Line Limited, is an all-in-one multi-model AI creation platform: text-to-image, image-to-image, text-to-video and image-to-video in one workspace, aggregating models such as Seedance 2.5, Nano Banana 2 and Pro, GPT Image 2, Kling 3.0 and Wan 2.7, plus a creation agent, a template library and an infinite canvas. The free plan includes one free Nano Banana generation and 20 chat conversations a day; credits come only with membership (Pro 10,000 a month, Max 30,000, Ultra 100,000) and unused monthly credits do not roll over."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://file.iminicdn.com/public/2026/06/29/2071530736871149568_sgflsmwd6.png",
+    "tags": {
+      "zh": [
+        "AI图像生成",
+        "AI视频生成",
+        "多模型",
+        "文生图",
+        "图生视频"
+      ],
+      "en": [
+        "AI Image Generation",
+        "AI Video Generation",
+        "Multiple Models",
+        "AI Agents",
+        "Image to Video"
+      ]
+    },
+    "url": "https://imini.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-11-03",
+    "languages": [
+      "en",
+      "de",
+      "es",
+      "fr",
+      "pt",
+      "ja",
+      "ko",
+      "zh",
+      "zh-TW"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Online Vocal Remover",
+    "description": {
+      "zh": "Online Vocal Remover 是 LearningLogic LLC 运营的在线人声分离工具：在浏览器里上传 MP3、WAV、M4A 或 OGG 文件（最大 50 MB），AI 把人声与伴奏拆成两条音轨，在线试听后可下载为 MP3 或 WAV。访客免登录可免费跑一次完整分离并试听，下载需登录；新账号送 20 积分，处理按每开始的 5 分钟一段扣 5 积分（访客单文件上限 5 分钟、登录用户 10 分钟），付费订阅与一次性积分包另含批量处理。",
+      "en": "Online Vocal Remover, run by LearningLogic LLC, separates vocals from music in the browser: upload an MP3, WAV, M4A or OGG file (up to 50 MB) and it splits the track into vocal and instrumental stems you can preview online and download as MP3 or WAV. Guests can run one full separation and preview it free; downloading requires sign-in. New accounts receive 20 credits, processing costs 5 credits per started 5-minute block (one file up to 5 minutes for guests, 10 minutes when signed in), and paid subscriptions or one-time credit packs add batch processing."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://onlinevocalremover.com/favicon.ico",
+    "tags": {
+      "zh": [
+        "人声分离",
+        "伴奏提取",
+        "音频编辑",
+        "AI音频",
+        "去人声"
+      ],
+      "en": [
+        "Vocal Removal",
+        "Stem Separation",
+        "Instrumental Maker",
+        "AI Audio",
+        "Audio Editing"
+      ]
+    },
+    "url": "https://onlinevocalremover.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-11-09",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Novastart",
+    "description": {
+      "zh": "Novastart 是一个无限画布白板操作系统，把应用、共享画布和 AI 智能体汇集到同一个可视化工作区里。它用 Rust 构建，帮助个人和团队跳出传统窗口布局来组织工具、开展协作。免费档包含 1 个文件夹、2 个画布、每画布 4 个窗口；Pro 为每月 10 美元、画布不限量，Team 为每人每月 20 美元，AI 智能体按次另外计费。运营方为 Marketplace Distributors LLC，总部位于洛杉矶，2025 年 1 月创立。",
+      "en": "Novastart is an infinite-canvas whiteboard OS that brings apps, shared canvases and AI agents together on one visual workspace. Built with Rust, it helps individuals and teams organize tools and collaborate beyond traditional window layouts. The free plan covers 1 folder, 2 canvases and 4 windows per canvas; Pro is $10/month for unlimited canvases, Team is $20/month per user, and AI agents are billed per use. It is run by Marketplace Distributors LLC, based in Los Angeles, and was founded in January 2025."
+    },
+    "category": "productivity",
+    "featured": false,
+    "logo": "https://novastart.com/brand/novastart-mark.svg",
+    "tags": {
+      "zh": [
+        "无限画布",
+        "白板",
+        "AI 智能体",
+        "团队协作",
+        "效率工具"
+      ],
+      "en": [
+        "Infinite Canvas",
+        "Whiteboard",
+        "AI Agents",
+        "Collaboration",
+        "Productivity"
+      ]
+    },
+    "url": "https://novastart.com/",
+    "pricing": "freemium",
+    "listedOn": "2026-11-13",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "easi.run",
+    "description": {
+      "zh": "easi.run 是一款免费开源软件（AGPL-3.0），通过 MCP 和 REST API 给接入的 AI 智能体提供一个自托管的 Chrome 浏览器，支持实时查看、人工接管、加密配置文件、隔离会话、文件传输和录制，推理则由接入的智能体完成。它运行在你自己的 Linux x86-64 服务器上，需要 systemd 和 rootful Docker；智能体和模型需自备，基础设施与模型费用另计。作者为 Juliano Gouveia。",
+      "en": "easi.run is free, open-source software (AGPL-3.0) that gives connected AI agents a self-hosted Chrome browser via MCP and REST APIs, with live viewing, human takeover, encrypted profiles, isolated sessions, file transfers and recordings — the connected agent provides the reasoning. It runs on your own Linux x86-64 server with systemd and rootful Docker; you bring your own agent and model, and infrastructure and model costs are separate. Created by Juliano Gouveia."
+    },
+    "category": "devPlatform",
+    "featured": false,
+    "logo": "https://easi.run/apple-touch-icon.png",
+    "tags": {
+      "zh": [
+        "MCP",
+        "REST API",
+        "浏览器自动化",
+        "自托管",
+        "开源"
+      ],
+      "en": [
+        "MCP",
+        "REST API",
+        "Browser Automation",
+        "Self-Hosted",
+        "Open Source"
+      ]
+    },
+    "url": "https://easi.run/",
+    "pricing": "free",
+    "listedOn": "2026-11-13",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "ViNano AI",
+    "description": {
+      "zh": "ViNano AI 在浏览器里用自然语言提示词和参考图创建、编辑图片并生成视频，内置 Veo 3.1、Seedance 等模型，还提供供智能体工作流调用的 MCP 服务器。每日签到和欢迎活动可领免费积分；订阅（Pro 每月 9.90 美元、Team 每月 29.90 美元）和一次性积分包可增加生成量，一次性积分永不过期。",
+      "en": "ViNano AI creates and edits images and generates videos in the browser from natural-language prompts and reference images, with models such as Veo 3.1 and Seedance built in and an MCP server for agent workflows. Free credits are available through daily check-ins and welcome offers; subscriptions (Pro $9.90/month, Team $29.90/month) and one-time credit packs add more generations, and one-time credits never expire."
+    },
+    "category": "imageGeneration",
+    "featured": false,
+    "logo": "https://vinano.ai/favicon.ico",
+    "tags": {
+      "zh": [
+        "AI 图片编辑",
+        "AI 图片生成",
+        "AI 视频生成",
+        "文生图",
+        "照片编辑"
+      ],
+      "en": [
+        "AI Image Editing",
+        "AI Image Generation",
+        "AI Video Generation",
+        "Text to Image",
+        "Photo Editing"
+      ]
+    },
+    "url": "https://vinano.ai/",
+    "pricing": "freemium",
+    "listedOn": "2026-11-13",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "BrewPage",
+    "description": {
+      "zh": "BrewPage 用来发布和托管 HTML 页面、静态站点和 AI 产物，也能把 Markdown、文档、报告等任意文件通过 HTTPS 链接分享出去。它完全免费、无需注册：在编辑器里粘贴即可发布，也可以用一次 API 调用完成。为 AI 智能体（Claude、Codex、Gemini、Cursor）提供带 25 个工具的 MCP 服务器、llms.txt 和 OpenAPI 契约，另有 JSON 与键值托管。它是临时托管而非永久存储：页面默认 15 至 30 天到期（视发布方式而定），可选的免费 profile 最长可保留到 90 天。由 Maksim Kochetkov 以非商业社区项目形式维护。",
+      "en": "BrewPage publishes and hosts HTML pages, static sites and AI artifacts, and shares Markdown, documents, reports and other files through HTTPS links. It is free and needs no signup: paste into the editor or publish with one API call. For AI agents (Claude, Codex, Gemini, Cursor) it offers an MCP server with 25 tools, llms.txt and an OpenAPI contract, plus JSON and key-value hosting. Hosting is temporary rather than permanent storage: pages expire after 15–30 days by default depending on how they are published, and an optional free profile extends retention to 90 days. It is run as a non-commercial community project by Maksim Kochetkov."
+    },
+    "category": "devPlatform",
+    "featured": false,
+    "logo": "https://brewpage.app/icon-512.png",
+    "tags": {
+      "zh": [
+        "HTML 托管",
+        "静态站点",
+        "Markdown",
+        "MCP",
+        "AI 智能体"
+      ],
+      "en": [
+        "HTML Hosting",
+        "Static Sites",
+        "Markdown",
+        "MCP",
+        "AI Agents"
+      ]
+    },
+    "url": "https://brewpage.app/",
+    "pricing": "free",
+    "listedOn": "2026-11-13",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "ScribeAny",
+    "description": {
+      "zh": "ScribeAny 是免费的在线 AI 转录工具：上传 MP3、WAV、MP4 等音视频文件（单个上限 100 MB），或粘贴 YouTube、TikTok 等公开视频链接，即可得到带时间戳、可搜索可编辑的转录文本，还可翻译、生成摘要与要点，并导出 TXT、DOCX、PDF、SRT、VTT、CSV。无需注册。由新加坡 Deep Explore Pte. Ltd. 运营。",
+      "en": "ScribeAny turns audio, video, and public video links into editable transcripts, translations, summaries, and subtitles. Free, no signup."
+    },
+    "category": "videoAudio",
+    "featured": false,
+    "logo": "https://www.scribeany.ai/brand/scribeany-logo-v1.svg",
+    "tags": {
+      "zh": [
+        "AI 转录",
+        "音频转文字",
+        "视频转文字",
+        "语音转文字",
+        "字幕"
+      ],
+      "en": [
+        "AI transcription",
+        "audio to text",
+        "video to text",
+        "speech to text",
+        "subtitles"
+      ]
+    },
+    "url": "https://www.scribeany.ai/",
+    "pricing": "free",
+    "listedOn": "2026-11-16",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "AI Calculators",
+    "description": {
+      "zh": "与 AI 相关的成本计算器：LLM API 成本、提示缓存节省、AI ROI、显存、RAG token 预算、AI 视频成本等，全部在浏览器本地计算。",
+      "en": "AI-related cost calculators (LLM API cost, prompt caching savings, AI ROI, VRAM, RAG token budget, AI video cost, etc.)"
+    },
+    "category": "business",
+    "featured": false,
+    "logo": "https://aicalculators.xyz/favicon.ico",
+    "tags": {
+      "zh": [
+        "AI 成本计算器",
+        "LLM API 成本",
+        "提示缓存",
+        "AI 投资回报",
+        "显存计算"
+      ],
+      "en": [
+        "AI cost calculator",
+        "LLM API cost",
+        "prompt caching",
+        "AI ROI",
+        "VRAM calculator"
+      ]
+    },
+    "url": "https://aicalculators.xyz/",
+    "pricing": "free",
+    "listedOn": "2026-11-17",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Pixocto",
+    "description": {
+      "zh": "AI 图像与视频创作平台，把 GPT Image 2.5、Midjourney V8.2、Nano Banana 2、Seedance、Kling 等模型聚合到一个工作台，支持文生图、图生图编辑与图生视频；积分包按量付费、无订阅、积分永不过期，注册送 100 免费积分。",
+      "en": "An AI image and video creation platform that brings GPT Image 2.5, Midjourney V8.2, Nano Banana 2, Seedance, Kling and more into one workspace for text-to-image, image-to-image editing and image-to-video generation. Pay-as-you-go credit packs with no subscription; credits never expire and new accounts get 100 free credits."
+    },
+    "category": "image",
+    "featured": false,
+    "logo": "https://pixocto.ai/pixocto-icon-192.png",
+    "tags": {
+      "zh": [
+        "AI图像生成",
+        "AI视频生成",
+        "图像编辑",
+        "按量付费"
+      ],
+      "en": [
+        "AI image generation",
+        "AI video generation",
+        "image editing",
+        "pay-as-you-go"
+      ]
+    },
+    "url": "https://pixocto.ai/",
+    "pricing": "paid",
+    "listedOn": "2026-11-20",
+    "languages": [
+      "en"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "OpenImmersive Translator",
+    "description": {
+      "zh": "OpenImmersive Translator 是一款开源（AGPL-3.0）的浏览器扩展，可将网页每段原文与译文对照显示，支持 199 种语言。免费引擎无需账号，也可自带 DeepL、OpenAI 或 DeepSeek 密钥。官网还提供保留排版的 PDF 翻译，以及 Word、PowerPoint、Excel 文件、图片和漫画翻译。",
+      "en": "OpenImmersive Translator is an open-source (AGPL-3.0) browser extension that shows each paragraph of a web page with its translation, in 199 languages. Its free engines need no account, or you can bring your own DeepL, OpenAI or DeepSeek key. The website also translates PDFs with the layout kept, plus Word, PowerPoint and Excel files, images and manga."
+    },
+    "category": "translation",
+    "featured": false,
+    "logo": "https://openimmersive.ai/seo/apple-touch-icon.png",
+    "tags": {
+      "zh": [
+        "双语对照翻译",
+        "浏览器扩展",
+        "开源",
+        "自带密钥",
+        "PDF翻译"
+      ],
+      "en": [
+        "bilingual translation",
+        "browser extension",
+        "open source",
+        "BYOK",
+        "PDF translator"
+      ]
+    },
+    "url": "https://openimmersive.ai/",
+    "pricing": "freemium",
+    "listedOn": "2026-11-21",
+    "languages": [
+      "en"
+    ]
+  }
+]

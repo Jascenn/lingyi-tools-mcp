@@ -1,0 +1,130 @@
+[
+  {
+    "id": "chatbot",
+    "slug": "chatbots",
+    "name": {
+      "zh": "AI 聊天机器人",
+      "en": "AI Chatbots"
+    }
+  },
+  {
+    "id": "imageGeneration",
+    "slug": "image-generation",
+    "name": {
+      "zh": "AI 图像生成",
+      "en": "AI Image Generation"
+    }
+  },
+  {
+    "id": "imageTools",
+    "slug": "image-tools",
+    "name": {
+      "zh": "AI 图像工具",
+      "en": "AI Image Tools"
+    }
+  },
+  {
+    "id": "codeAssistant",
+    "slug": "coding-assistants",
+    "name": {
+      "zh": "AI 编程助手",
+      "en": "AI Coding Assistants"
+    }
+  },
+  {
+    "id": "contentWriting",
+    "slug": "writing-tools",
+    "name": {
+      "zh": "AI 写作工具",
+      "en": "AI Writing Tools"
+    }
+  },
+  {
+    "id": "videoAudio",
+    "slug": "video-audio",
+    "name": {
+      "zh": "AI 视频与音频",
+      "en": "AI Video and Audio"
+    }
+  },
+  {
+    "id": "musicCreation",
+    "slug": "music-creation",
+    "name": {
+      "zh": "AI 音乐创作",
+      "en": "AI Music Creation"
+    }
+  },
+  {
+    "id": "searchResearch",
+    "slug": "search-research",
+    "name": {
+      "zh": "AI 搜索与研究",
+      "en": "AI Search and Research"
+    }
+  },
+  {
+    "id": "translation",
+    "slug": "translation-tools",
+    "name": {
+      "zh": "AI 翻译工具",
+      "en": "AI Translation Tools"
+    }
+  },
+  {
+    "id": "design",
+    "slug": "design-tools",
+    "name": {
+      "zh": "AI 设计工具",
+      "en": "AI Design Tools"
+    }
+  },
+  {
+    "id": "dataAnalysis",
+    "slug": "data-analysis",
+    "name": {
+      "zh": "AI 数据分析",
+      "en": "AI Data Analysis"
+    }
+  },
+  {
+    "id": "devPlatform",
+    "slug": "developer-platforms",
+    "name": {
+      "zh": "开发与部署平台",
+      "en": "Development & Deployment"
+    }
+  },
+  {
+    "id": "productivity",
+    "slug": "productivity-tools",
+    "name": {
+      "zh": "AI 生产力工具",
+      "en": "AI Productivity Tools"
+    }
+  },
+  {
+    "id": "business",
+    "slug": "business-tools",
+    "name": {
+      "zh": "AI 商业工具",
+      "en": "AI Business Tools"
+    }
+  },
+  {
+    "id": "education",
+    "slug": "education-tools",
+    "name": {
+      "zh": "AI 教育工具",
+      "en": "AI Education Tools"
+    }
+  },
+  {
+    "id": "utility",
+    "slug": "utilities",
+    "name": {
+      "zh": "凌一自研工具",
+      "en": "Lingyi-built Tools"
+    }
+  }
+]
