@@ -30,7 +30,7 @@ Remote (Streamable HTTP, recommended — requires the deployment step to be done
 }
 ```
 
-Local stdio via npx: upcoming — the npm package is not published yet. After publish you will be able to use:
+Local stdio via npx (published on npm as `lingyi-tools-mcp`):
 
 ```json
 {
@@ -63,7 +63,7 @@ printf '%s\n' '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocol
 
 ## Registry submission
 
-`server.json` follows the MCP Registry schema (2025-12-11) and is ready for `mcp-publisher publish`. The `remotes[0].url` is a placeholder — verify the actual deployment domain before publishing.
+`server.json` follows the MCP Registry schema (2025-12-11) and is published to the official MCP Registry as `io.github.Jascenn/lingyi-tools-mcp`, listing both the remote endpoint above and the npm package.
 
 ## License
 
